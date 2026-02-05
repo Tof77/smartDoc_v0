@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--This document was created with Codex.--><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.2 Map//EN" "map.dtd">
+<map xml:lang="fr">
+    <title>ATG H706</title>
+    <topicgroup processing-role="resource-only">
+        <topicmeta>
+            <navtitle>Resources</navtitle>
+        </topicmeta>
+        <keydef format="json" href="../../../Json%20Documents/ATGH706.json" keys="json_datasource"/>
+        <topicref format="ditamap" href="ATGH706-xml-fr.ditamap" keys="keys-ATGH706" type="map"/>
+        <topicref format="ditamap" href="../subject_scheme/subjectscheme.ditamap" keys="subjectscheme" type="subjectScheme"/>
+        <topicref format="json" href="../../../Json%20Documents/ATG-Finishing-Thermal_insulation_product-Translation.json" type=""/>
+        <topicref href="../../../warehouse/!warehouse.ditamap" format="ditamap" type="map"/>
+    </topicgroup>
+    <topicref href="../../../Template/ubatc-cover_page-fr.dita"/>
+    <topicref href="ubatc-introduction_page-fr.dita"/>
+    <topicref href="ubatc-object-fr.dita"/>
+    <topichead navtitle="Produit(s) d'isolation thermique faisant l'objet de cet agrément technique">
+        <topicref href="Kooltherm_K3-Product_description-FR.dita"/>
+        <topicref href="Kooltherm_K8_D-Product_description-FR.dita"/>
+    </topichead>
+    <topicref href="../../../Template/ubatc-conditions-fr.dita"/>
+    <topicref href="../finishing-signaturepage-fr.dita"/>
+    <topicref href="../../../Template/ubatc-lastpage-fr.dita"/>
+</map>

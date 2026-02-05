@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="atgh706-object">
+    <title>Objet de l'agrément</title>
+    <shortdesc/>
+    <conbody>
+        <table frame="none" rowsep="0" colsep="0" outputclass="tableau_objetagrement">
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="6cm" colsep="0" rowsep="0"/>
+                <colspec colname="c2" colnum="2" colwidth="12.5cm" colsep="0" rowsep="0"/>
+                <tbody>
+                    <row valign="top">
+                        <entry align="left" valign="top" outputclass="cellpadding_leftcol">Produit de construction :</entry>
+                        <entry align="left" valign="top"><p>Panneaux rigides en mousse de phénol (PF)</p><ul>
+                                <li><ph keyref="document.product.0.product_description.product_name"/></li>
+                                <li><ph keyref="document.product.1.product_description.product_name"/></li>
+                            </ul></entry>
+                    </row>
+                    <row valign="top">
+                        <entry align="left" outputclass="cellpadding_leftcol" valign="top">Application visée :</entry>
+                        <entry>-</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>L'ATG/H (agrément technique produit) ne porte que sur les caractéristiques déclarées et certifiées du produit, conformément aux normes NBN EN, sans toutefois se prononcer sur l'aptitude à l'emploi dans des applications spécifiques. Dans ce cas, un agrément technique ATG reprenant les exigences de mise en oeuvre et les critères d'emploi est éventuellement disponible.</p>
+        <p>La procédure de certification comprend :</p>
+        <ul>
+            <li>un contrôle continu de la production par le fabricant,</li>
+            <li>un contrôle régulier par l'opérateur de certification désigné par l'UBAtc.</li>
+        </ul>
+    </conbody>
+</concept>

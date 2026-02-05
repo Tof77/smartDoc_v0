@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="kooltherm_k3-thermalresistance_fr">
+<title outputclass="hidden">Résistance thermique du produit isolant</title>
+<shortdesc></shortdesc>
+<refbody>
+<table id="kooltherm_k3-thermalresistancetable_fr" frame="none" rowsep="0" colsep="0">
+<title>Kooltherm K3</title>
+<tgroup cols="2" align="center">
+<colspec colname="c1" colnum="1" colwidth="112.5pt"/>
+<colspec colname="c2" colnum="2" colwidth="206.25pt"/>
+<thead>
+<row>
+<entry>Epaisseur</entry>
+<entry>R<sub>isol</sub></entry>
+</row>
+<row>
+<entry>mm</entry>
+<entry>m²K/W</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>40</entry>
+<entry>1.74</entry>
+</row>
+<row>
+<entry>50</entry>
+<entry>2.27</entry>
+</row>
+<row>
+<entry>60</entry>
+<entry>2.73</entry>
+</row>
+<row>
+<entry>70</entry>
+<entry>3.18</entry>
+</row>
+<row>
+<entry>80</entry>
+<entry>3.64</entry>
+</row>
+<row>
+<entry>90</entry>
+<entry>4.09</entry>
+</row>
+<row>
+<entry>100</entry>
+<entry>4.55</entry>
+</row>
+<row>
+<entry>110</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry>120</entry>
+<entry>5.45</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</refbody>
+</reference>

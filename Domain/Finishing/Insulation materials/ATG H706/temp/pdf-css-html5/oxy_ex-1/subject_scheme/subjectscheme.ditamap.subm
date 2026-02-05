@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><subjectScheme xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- map/map subjectScheme/subjectScheme " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map subjectScheme)                            a(props deliveryTarget)                            (topic hazard-d)                            (topic hi-d)                            (topic ut-d)   " processing-role="resource-only" toc="no">
+    <title class="- topic/title ">Attributes in use</title>
+    <hasInstance class="- map/topicref subjectScheme/hasInstance ">
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="productKey">
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="ATGH867"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="ATGH706"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="ATGH577-1"/>
+        </subjectdef>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="audienceKey"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="deliveryTargetKey">
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="print"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="screen"/>
+        </subjectdef>
+    </hasInstance>
+    <enumerationdef class="- map/topicref subjectScheme/enumerationdef ">
+        <attributedef class="- topic/data subjectScheme/attributedef " name="deliveryTarget" translate="no"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keyref="deliveryTargetKey"/>
+    </enumerationdef>
+    <enumerationdef class="- map/topicref subjectScheme/enumerationdef ">
+        <attributedef class="- topic/data subjectScheme/attributedef " name="product" translate="no"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keyref="productKey"/>
+    </enumerationdef>
+</subjectScheme>

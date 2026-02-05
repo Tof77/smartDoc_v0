@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ssn_c4t_ytb">
+<title><ph keyref="document.product.1.product_description.product_name"/></title>
+<body>
+<section>
+<title>Description et composition du produit</title>
+<table frame="none" rowsep="0" colsep="0" outputclass="centered">
+<title outputclass="hidden">Description du produit</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<tbody>
+<row>
+<entry align="right">Nom du produit:</entry>
+<entry><b><ph keyref="document.product.1.product_description.product_name"/></b></entry>
+</row>
+<row>
+<entry align="right">Matériau :</entry>
+<entry><ph keyref="document.product.1.product_description.material"
+                                                        /></entry>
+</row>
+<row>
+<entry align="right">Revêtement des faces :</entry>
+<entry>
+<ol>
+<li outputclass="no-indentation"><ph keyref="document.product.1.product_description.finishing_upside.fr"/></li>
+<li outputclass="no-indentation"><ph keyref="document.product.1.product_description.finishing_underside.fr"/></li>
+</ol>
+</entry>
+</row>
+<row>
+<entry align="right">Dimensions :</entry>
+<entry>
+Longueur: <ph keyref="document.product.1.product_description.dimensions.0.length" outputclass="linebreakafter"/>
+Largeur: <ph keyref="document.product.1.product_description.dimensions.0.width" outputclass="linebreakafter"/>
+Epaisseurs: <ph keyref="document.product.1.product_description.dimensions.0.thickness_min"/> mm
+ - <ph keyref="document.product.1.product_description.dimensions.1.thickness_min"/> mm
+ - <ph keyref="document.product.1.product_description.dimensions.2.thickness_min"/> mm
+ - <ph keyref="document.product.1.product_description.dimensions.3.thickness_min"/> mm
+ - <ph keyref="document.product.1.product_description.dimensions.4.thickness_min"/> mm
+ - <ph keyref="document.product.1.product_description.dimensions.5.thickness_min"/> mm
+ - <ph keyref="document.product.1.product_description.dimensions.6.thickness_min"/> mm
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section>
+<title>Procédé de fabrication</title>
+<p><ph keyref="document.product.1.fabrication_process.fr"/></p>
+</section>
+<section>
+<title>Site(s) de production</title>
+<p><ph keyref="document.product.1.manufacturing_and_sales.manufacturer.0.name"/> - <ph
+                    keyref="document.product.1.manufacturing_and_sales.manufacturer.0.city"/> (<ph 
+                    keyref="document.product.1.manufacturing_and_sales.manufacturer.0.country"/>)</p>
+</section>
+<section>
+<title>Caractéristiques du produit</title>
+<table frame="all" rowsep="1" colsep="1">
+<title>Gamme d'épaisseur = 50 à 117 mm</title>
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="40%"/>
+<colspec colname="c2" colnum="2" colwidth="13%"/>
+<colspec colname="c3" colnum="3" colwidth="18%"/>
+<colspec colname="c4" colnum="4" colwidth="16%"/>
+<colspec colname="c5" colnum="5" colwidth="13%"/>
+<thead>
+<row>
+<entry align="left" outputclass="title-column">Propriété</entry>
+<entry outputclass="title-column">Unités</entry>
+<entry outputclass="title-column">Méthode d'essai</entry>
+<entry outputclass="title-column">Tolérances</entry>
+<entry outputclass="title-column">Valeur</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry outputclass="title-column">thickness range</entry>
+<entry align="center">mm</entry>
+<entry align="center">NBN EN 823</entry>
+<entry align="center"></entry>
+<entry align="center">50 -> 117</entry>
+</row>
+<row rowsep="0">
+<entry outputclass="title-column">équerrage</entry>
+<entry></entry>
+<entry></entry>
+<entry></entry>
+<entry></entry>
+</row>
+<row rowsep="0">
+<entry outputclass="title-column"><ph outputclass="indent_list"></ph>Sl</entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.squareness.0.units"/></entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.squareness.0.test_method"/></entry>
+<entry align="center"></entry>
+<entry align="center">5</entry>
+</row>
+<row rowsep="0">
+<entry outputclass="title-column"><ph outputclass="indent_list"></ph>Sb</entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.squareness.1.units"/></entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.squareness.1.test_method"/></entry>
+<entry align="center"></entry>
+<entry align="center">5</entry>
+</row>
+<row rowsep="1">
+<entry outputclass="title-column"><ph outputclass="indent_list"></ph>Sd</entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.squareness.2.units"/></entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.squareness.2.test_method"/></entry>
+<entry align="center"></entry>
+<entry align="center">2</entry>
+</row>
+<row>
+<entry outputclass="title-column">flatness</entry>
+<entry align="center">mm</entry>
+<entry align="center">NBN EN 825</entry>
+<entry align="center"></entry>
+<entry align="center">0</entry>
+</row>
+<row rowsep="0">
+<entry outputclass="title-column">stabilité dimensionnelle</entry>
+<entry></entry>
+<entry></entry>
+<entry></entry>
+<entry></entry>
+</row>
+<row rowsep="0">
+<entry outputclass="title-column"><ph outputclass="indent_list"></ph>DS(70,90)</entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.dimensional_stability.0.units"/></entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.dimensional_stability.0.test_method"/></entry>
+<entry align="center"></entry>
+<entry align="center">&lt;=1.5</entry>
+</row>
+<row rowsep="1">
+<entry outputclass="title-column"><ph outputclass="indent_list"></ph>DS(-20,-)</entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.dimensional_stability.1.units"/></entry>
+<entry align="center"><ph keyref="document.product.1.properties.0.dimensional_stability.1.test_method"/></entry>
+<entry align="center"></entry>
+<entry align="center">&lt;=1.5</entry>
+</row>
+<row>
+<entry outputclass="title-column">thermal conductivity</entry>
+<entry align="center">W/mK</entry>
+<entry align="center">NBN EN 12667</entry>
+<entry align="center"></entry>
+<entry align="center">0.022</entry>
+</row>
+<row>
+<entry outputclass="title-column">reaction to fire</entry>
+<entry align="center"></entry>
+<entry align="center">NBN EN 13501-1</entry>
+<entry align="center"></entry>
+<entry align="center">D-s1,d0</entry>
+</row>
+<row>
+<entry outputclass="title-column">compressive strength</entry>
+<entry align="center">kPa</entry>
+<entry align="center">NBN EN 826</entry>
+<entry align="center"></entry>
+<entry align="center"><p>CS(10\Y)100</p><p>100</p></entry>
+</row>
+<row>
+<entry outputclass="title-column">tensile strength perpendicular to faces</entry>
+<entry align="center">kPa</entry>
+<entry align="center">NBN EN 1607</entry>
+<entry align="center"></entry>
+<entry align="center"><p></p><p>0</p></entry>
+</row>
+<row>
+<entry outputclass="title-column">bending</entry>
+<entry align="center">kPa</entry>
+<entry align="center">NBN EN 12089</entry>
+<entry align="center"></entry>
+<entry align="center"><p>BS200</p><p>200</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</body>
+</topic>

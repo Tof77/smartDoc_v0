@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This document was created with Codex.-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.2 Topic//EN"
+"topic.dtd">
+<topic id="ubatc_coverpage_atgh706" outputclass="first_page">
+  <title outputclass="title_first_page hidden">Agrément Technique ATG avec
+  Certification</title>
+
+  <body>
+    <table colsep="0" frame="none" id="table_el1_p3v_xyb"
+           outputclass="tablecover" rowsep="0">
+      <tgroup align="center" cols="2">
+        <colspec align="center" colname="c1" colnum="1" colwidth="1*"/>
+
+        <colspec align="center" colname="c2" colnum="2" colwidth="1*"/>
+
+        <tbody>
+          <row outputclass="cellubatclogo" valign="bottom">
+            <entry align="center" nameend="c2" namest="c1"
+            valign="middle"><image align="center"
+            href="../../../Template/img/butgb-ubatc_02_rgb.svg"
+            id="image_hjw_xyf_vyb" width="8.5cm"/></entry>
+          </row>
+
+          <row>
+            <entry align="center" colsep="0" nameend="c2" namest="c1"
+            outputclass="cellimage" valign="middle"><image href="ATGH706.svg"
+            width="4.49cm"/></entry>
+          </row>
+
+          <row outputclass="celldomain" valign="middle">
+            <entry align="center" nameend="c2" namest="c1"
+            outputclass="refatg" valign="middle"><p
+            outputclass="coverpage_family reducedlinespacing uppercase"> <ph
+            keyref="document.domain"> </ph> </p></entry>
+          </row>
+
+          <row outputclass="cellfamily">
+            <entry align="center" nameend="c2" namest="c1" valign="middle"><p
+            outputclass="coverpage_family reducedlinespacing uppercase"> <ph
+            keyref="document.product_family"> </ph> </p></entry>
+          </row>
+
+          <row outputclass="cellproductname">
+            <entry align="center" nameend="c2" namest="c1" valign="middle"><p
+            outputclass="coverpage_tradename uppercase reducedlinespacing">
+            <b> <ph
+            keyref="document.product.0.product_description.product_name">
+            </ph> </b> </p> <p
+            outputclass="coverpage_tradename uppercase reducedlinespacing">
+            <b> <ph
+            keyref="document.product.1.product_description.product_name">
+            </ph> </b> </p></entry>
+          </row>
+
+          <row outputclass="cellvalidity">
+            <entry align="center" nameend="c2" namest="c1" valign="middle"><p
+            outputclass="coverpage_validity">Valide du dd/mm/yyyy au
+            dd/mm/yyyy</p></entry>
+          </row>
+
+          <row outputclass="cellatgholder">
+            <entry align="center" valign="middle"/>
+
+            <entry align="left" valign="middle"><p
+            outputclass="coverpage_holdertitle">Titulaire de l'agrément :</p>
+            <p outputclass="reducedlinespacing coverpage_holdercoord"> <ph
+            keyref="document.holder.holder_name"> </ph> </p> <p
+            outputclass="reducedlinespacing coverpage_holdercoord"> <ph
+            keyref="document.holder.holder_street"> </ph> </p> <p
+            outputclass="reducedlinespacing coverpage_holdercoord"> <ph
+            keyref="document.holder.holder_zipcode"> </ph> <ph
+            keyref="document.holder.holder_city"> </ph> </p> <p
+            outputclass="reducedlinespacing coverpage_holdercoord">Tel: <ph
+            keyref="document.holder.holder_phone"> </ph> </p> <p
+            outputclass="reducedlinespacing coverpage_holdercoord">Email: <ph
+            keyref="document.holder.holder_email"> </ph> </p> <p
+            outputclass="reducedlinespacing coverpage_holdercoord">Website:
+            <ph keyref="document.holder.holder_website"> </ph> </p></entry>
+          </row>
+
+          <row outputclass="cellqr">
+            <entry align="right" nameend="c2" namest="c1"
+            valign="middle"><image height="3.5cm" href="ATGH706-QR.png"
+            outputclass="qrcode"/></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

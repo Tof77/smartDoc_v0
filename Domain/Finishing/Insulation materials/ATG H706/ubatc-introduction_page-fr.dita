@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--This document was created with Codex.--><!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.2 Topic//EN" "topic.dtd">
+<topic id="ubatc_introductionpage" outputclass="twocolumns" xml:lang="nl">
+    <title outputclass="hidden">Doel en draagwijdte van een technische goedkeuring</title>
+    <body>
+        <table colsep="0" frame="none" id="table_uf3_cnf_xyb" rowsep="0">
+            <tgroup align="center" cols="2">
+                <colspec align="left" colname="c1" colnum="1" colsep="0" colwidth="10cm" rowsep="0"/>
+                <colspec colname="c2" colnum="2" colwidth="8cm"/>
+                <tbody>
+                    <row rowsep="0" valign="middle">
+                        <entry align="left" morerows="8" outputclass="gradientgreybackground cellpadding_leftcol" valign="top">
+                            <p>Een technische goedkeuring betreft een gunstige beoordeling door een door de BUtgb aangeduide competente, onafhankelijke en onpartijdige goedkeuringsoperator van een bouwproduct voor een welbepaalde toepassing.</p>
+                            <p>De technische goedkeuring legt de resultaten van het goedkeuringsonderzoek vast. Dit onderzoek bestaat uit: </p>
+                            <ul id="ul_fqx_5nf_xyb">
+                                <li>de identificatie van de relevante eigenschappen van het product in functie van de beoogde toepassing en de plaatsings- of verwerkingswijze ervan,</li>
+                                <li>het ontwerp van het product,</li>
+                                <li>de betrouwbaarheid van de productie.</li>
+                            </ul>
+                            <p>De technische goedkeuring heeft een hoog betrouwbaarheidsniveau door de statistische interpretatie van de controleresultaten, de periodieke opvolging, de aanpassing aan de stand van zaken en techniek en de kwaliteitsbewaking van de goedkeuringshouder.</p>
+                            <p>Het behouden van de technische goedkeuring vereist dat de goedkeuringshouder te allen tijde kan bewijzen dat hij het nodige doet opdat de gebruiksgeschiktheid van het product aangetoond blijft. De opvolging van de overeenstemming van het product met de technische goedkeuring is daarbij essentieel. Deze opvolging wordt door de BUtgb toevertrouwd aan een competente, onafhankelijke en onpartijdige certificatieoperator.</p>
+                            <p>De technische goedkeuring, evenals de certificatie van de overeenstemming van het product met de technische goedkeuring, staan los van individueel uitgevoerde werken. De aannemer en/of architect blijven onverminderd verantwoordelijk voor de overeenstemming van de uitgevoerde werken met de bepalingen van het bestek.</p>
+                            <p>De technische goedkeuring behandelt, met uitzondering van specifiek opgenomen bepalingen, niet de veiligheid op de bouwplaats, gezondheidsaspecten en duurzaam gebruik van grondstoffen. Bijgevolg is de BUtgb niet verantwoordelijk voor enige schade die zou worden veroorzaakt door het niet naleven door de goedkeuringshouder of de aannemer(s) en/of de architect van de bepalingen m.b.t. veiligheid op de bouwplaats, gezondheidsaspecten en duurzaam gebruik van grondstoffen.</p>
+                        </entry>
+                        <entry align="left" outputclass="redubatc cellpadding_rightcol extratopmargin operatortye" valign="bottom">Opérateurs d'agrément</entry>
+                    </row>
+                    <row>
+                        <entry align="center" outputclass="cellpadding_rightcol" valign="bottom">
+                            <image href="../../Publishing%20Template/resources/img/logo_Buildwise.svg" id="image_n4z_b4f_xyb" width="2.34cm"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="left" outputclass="cellpadding_rightcol" valign="top">
+                            <p outputclass="operatorname reducedlinespacing">Buildwise</p>
+                            <p outputclass="reducedlinespacing">Kleine Kloosterstraat 23 1932 Zaventem</p>
+                            <p outputclass="reducedlinespacing">info@buildwise.be - www.buildwise.be</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" outputclass="cellpadding_rightcol" valign="bottom">
+                            <image href="../../Publishing%20Template/resources/img/logo_SECO.svg" id="image_yry_f4f_xyb" width="2.34cm"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="left" outputclass="cellpadding_rightcol" valign="top">
+                            <p outputclass="operatorname reducedlinespacing">SECO</p>
+                            <p outputclass="reducedlinespacing">Hoofdzetel : Kantersteen 47 1000 Brussel</p>
+                            <p outputclass="reducedlinespacing">Kantoren: Hermeslaan 9 1831 Diegem</p>
+                            <p outputclass="reducedlinespacing">mail@seco.be - www.groupseco.be</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="left" outputclass="redubatc cellpadding_rightcol extratopmargin operatortye" valign="bottom">Opérateur de certification</entry>
+                    </row>
+                    <row>
+                        <entry align="center" outputclass="cellpadding_rightcol" valign="bottom">
+                            <image href="../../Publishing%20Template/resources/img/logo_BCCA.svg" id="image_q5b_34f_xyb" width="1.69cm"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="left" outputclass="cellpadding_rightcol" valign="top">
+                            <p outputclass="operatorname reducedlinespacing">BCCA</p>
+                            <p outputclass="reducedlinespacing">Hoofdzetel : Kantersteen 47 1000 Brussel</p>
+                            <p outputclass="reducedlinespacing">Kantoren: Hermeslaan 9 1831 Diegem</p>
+                            <p outputclass="reducedlinespacing">mail@bcca.be - www.bcca.be</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry outputclass="cellpadding_rightcol"> </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>
