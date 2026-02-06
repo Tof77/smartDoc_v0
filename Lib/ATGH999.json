@@ -27,12 +27,12 @@
           "material": "MW",
           "product_type": {
             "rigid_panel": false,
-            "semi_rigid_panel": false,
+            "semi_rigid_panel": true,
             "roll": false
           },
           "dimensions": [],
           "edge_finishing": {
-            "straight_edge": false,
+            "straight_edge": true,
             "tongue_and_groove": false,
             "shiplap": false
           },
@@ -42,12 +42,12 @@
             "en": ""
           },
           "finishing upside": {
-            "fr": "",
+            "fr": "voile de verre",
             "nl": "",
             "en": ""
           },
           "finishing underside": {
-            "fr": "",
+            "fr": "voile de verre",
             "nl": "",
             "en": ""
           },
