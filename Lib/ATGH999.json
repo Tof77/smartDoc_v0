@@ -1,0 +1,82 @@
+{
+  "document": {
+    "language": "FR",
+    "domain": "Finishing",
+    "product_family": "Insulation materials",
+    "reference": "ATG H999",
+    "atglogo_link": "",
+    "qrcode_link": "",
+    "holder": {
+      "name": "71Test",
+      "address": {
+        "street": "",
+        "zipcode": "",
+        "city": "",
+        "country": ""
+      },
+      "contact": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      }
+    },
+    "product": [
+      {
+        "product_description": {
+          "product_name": "Isoltout",
+          "material": "MW",
+          "product_type": {
+            "rigid_panel": false,
+            "semi_rigid_panel": false,
+            "roll": false
+          },
+          "dimensions": [],
+          "edge_finishing": {
+            "straight_edge": false,
+            "tongue_and_groove": false,
+            "shiplap": false
+          },
+          "color": {
+            "fr": "",
+            "nl": "",
+            "en": ""
+          },
+          "finishing upside": {
+            "fr": "",
+            "nl": "",
+            "en": ""
+          },
+          "finishing underside": {
+            "fr": "",
+            "nl": "",
+            "en": ""
+          },
+          "product_composition_pictures": [],
+          "product_application": []
+        },
+        "fabrication process": {
+          "fr": "",
+          "nl": "",
+          "en": ""
+        },
+        "dimensional tolerances": {
+          "length": [],
+          "width": [],
+          "Thickness": {
+            "class": "T1",
+            "details": []
+          }
+        },
+        "product_properties": [],
+        "manufacturing and sales": {
+          "manufacturer": [],
+          "reseller": []
+        },
+        "storage": {
+          "storage life": "",
+          "instructions": ""
+        }
+      }
+    ]
+  }
+}
