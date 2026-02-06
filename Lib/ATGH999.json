@@ -51,7 +51,11 @@
             "nl": "",
             "en": ""
           },
-          "product_composition_pictures": [],
+          "product_composition_pictures": [
+            {
+              "image": "https://raw.githubusercontent.com/Tof77/smartDoc_v0/main/Domain/Finishing/Insulation%20materials/ATG%20H999/img/Kooltherm_K3-Composition.png"
+            }
+          ],
           "product_application": []
         },
         "fabrication process": {
