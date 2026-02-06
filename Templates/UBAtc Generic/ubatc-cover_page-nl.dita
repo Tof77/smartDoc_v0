@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This document was created with Codex.-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.2 Topic//EN"
+"topic.dtd">
+<topic id="ubatc_coverpage_atgh706" outputclass="first_page">
+    <title outputclass="title_first_page hidden">Technische Goedkeuring ATG met Certificatie</title>
+
+    <body>
+        <table colsep="0" frame="none" id="table_el1_p3v_xyb" outputclass="tablecover" rowsep="0">
+            <tgroup align="center" cols="2">
+                <colspec align="center" colname="c1" colnum="1" colwidth="1*"/>
+
+                <colspec align="center" colname="c2" colnum="2" colwidth="1*"/>
+
+                <tbody>
+                    <row outputclass="cellubatclogo" valign="bottom">
+                        <entry align="center" nameend="c2" namest="c1" valign="middle"><image align="center" href="../Template/img/butgb-ubatc_02_rgb.svg" width="8.5cm"/></entry>
+                    </row>
+
+                    <row>
+                        <entry align="center" colsep="0" nameend="c2" namest="c1" outputclass="cellimage" valign="middle"><image keyref="document.atglogo" width="4.5cm"/></entry>
+                    </row>
+
+                    <row outputclass="celldomain" valign="middle">
+                        <entry align="center" nameend="c2" namest="c1" outputclass="refatg" valign="middle">
+                            <p outputclass="coverpage_family reducedlinespacing uppercase">
+                                <ph keyref="document.domain"> </ph>
+                            </p>
+                        </entry>
+                    </row>
+
+                    <row outputclass="cellfamily">
+                        <entry align="center" nameend="c2" namest="c1" valign="middle"><p outputclass="coverpage_family reducedlinespacing uppercase">
+                                <ph keyref="document.product_family"> </ph>
+                            </p></entry>
+                    </row>
+
+                    <row outputclass="cellproductname">
+                        <entry namest="c1" nameend="c2" align="center" valign="middle">
+                            <p outputclass="coverpage_tradename uppercase reducedlinespacing">
+                                <ph keyref="product_name"/>
+                            </p>
+                        </entry>
+                    </row>
+
+                    <row outputclass="cellvalidity">
+                        <entry align="center" nameend="c2" namest="c1" valign="middle">
+                            <p outputclass="coverpage_validity">Geldig van dd/mm/yyyy tot dd/mm/yyyy</p>
+                        </entry>
+                    </row>
+
+                    <row outputclass="cellatgholder">
+                        <entry align="center" valign="middle"/>
+
+                        <entry align="left" valign="middle"><p outputclass="coverpage_holdertitle">Goedkeuringshouder:</p>
+                            <p outputclass="reducedlinespacing coverpage_holdercoord">
+                                <ph keyref="document.holder.name"> </ph>
+                            </p>
+                            <p outputclass="reducedlinespacing coverpage_holdercoord">
+                                <ph keyref="document.holder.address.street"> </ph>
+                            </p>
+                            <p outputclass="reducedlinespacing coverpage_holdercoord">
+                                <ph keyref="document.holder.address.zipcode"> </ph>
+                                <ph keyref="document.holder.address.city"> </ph>
+                            </p>
+                            <p outputclass="reducedlinespacing coverpage_holdercoord">Tel: <ph keyref="document.holder.contact.phone"> </ph>
+                            </p>
+                            <p outputclass="reducedlinespacing coverpage_holdercoord">Email: <ph keyref="document.holder.contact.email"> </ph>
+                            </p>
+                            <p outputclass="reducedlinespacing coverpage_holdercoord">Website: <ph keyref="document.holder.contact.website"> </ph>
+                            </p></entry>
+                    </row>
+
+                    <row outputclass="cellqr">
+                        <entry align="right" nameend="c2" namest="c1" valign="middle"><image keyref="document.qrcode" width="3cm"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

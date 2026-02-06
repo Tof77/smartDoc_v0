@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ubatc_conditions">
+    <title outputclass="uppercase">Conditions pour l'utilisation et le maintien de l'ATG</title>
+    <body>
+        <p>Les clauses ci-dessous complètent ou rappellent les dispositions du règlement d’usage et de contrôle de la marque figurative ATG qui est pleinement d’application.</p>
+        <table frame="none" rowsep="0" colsep="0" id="table_tfr_cj4_dzb">
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1cm"/>
+                <colspec colname="c2" colnum="2" colwidth="17.5cm"/>
+                <tbody>
+                    <row>
+                        <entry valign="top">
+                            <p outputclass="condition_numbering">A.</p>
+                        </entry>
+                        <entry>
+                            <p>Le présent agrément technique se rapporte exclusivement aux produits de construction dont il est fait mention dans le chapitre "Objet de l'agrément" de ce document.</p>
+                            <p>Il en résulte que le titulaire d'agrément ne peut faire aucun usage du nom de l'UBAtc, de son logo, de la marque ATG, de l'agrément technique ou du numéro d'agrément pour revendiquer des évaluations de produits non conformes à cet agrément technique ni pour un produit (ainsi que ses propriétés ou caractéristiques) ne faisant pas l'objet de cet agrément technique.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry valign="top">
+                            <p outputclass="condition_numbering">B.</p>
+                        </entry>
+                        <entry>
+                            <p>L'agrément technique a été élaboré sur base des connaissances et informations techniques et scientifiques disponibles, assorties des informations mises à disposition par le demandeur et complétées par un examen d'agrément prenant en compte le caractère spécifique du produit. Néanmoins, les utilisateurs demeurent responsables de la sélection du produit, tel que décrit dans l'agrément technique, pour l'application spécifique visée par l'utilisateur.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry valign="top">
+                            <p outputclass="condition_numbering">C.</p>
+                        </entry>
+                        <entry>
+                            <p>Seuls le titulaire d'agrément peut revendiquer cet agrément technique.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry valign="top">
+                            <p outputclass="condition_numbering">D.</p>
+                        </entry>
+                        <entry>
+                            <p>Toutes références à cet agrément technique doivent être assorties du numéro d'identification ATG 2834 et, si nécessaire, du délai de validité.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry valign="top">
+                            <p outputclass="condition_numbering">E.</p>
+                        </entry>
+                        <entry>
+                            <p>Les informations qui sont mises à disposition, de quelque manière que ce soit, par le titulaire d'agrément, le(s) distributeur(s) ou un entrepreneur agréé ou par leurs représentants, des utilisateurs (potentiels) ne peuvent pas être incomplètes ou en contradiction avec le contenu de l'agrément technique ni avec les informations auxquelles il est fait référence dans l'agrément technique.</p>
+                            <p>L'UBAtc ou l'opérateur de certification peut prendre les initiatives qui s'imposent en cas de non-respect.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry valign="top">
+                            <p outputclass="condition_numbering">F.</p>
+                        </entry>
+                        <entry>
+                            <p>L'UBAtc, l'opérateur d'agrément et l'opérateur de certification ne peuvent pas être tenus responsables d'un quelconque dommage ou d'une quelconque conséquence défavorable causés à des tiers résultant du non-respect des dispositions du présent document.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry valign="top">
+                            <p outputclass="condition_numbering">G.</p>
+                        </entry>
+                        <entry valign="top">
+                            <p>L'agrément technique reste valable, à condition que les produits, leur fabrication et tous les processus pertinents à cet égard :</p>
+                            <ul id="ul_phc_pj4_dzb">
+                                <li>soient maintenus, de manière à ce qu'au minimum les résultats d'examen tels que définis dans cet agrément technique soient atteints ;</li>
+                                <li>soient soumis au contrôle continu de l'opérateur de certification et que celui-ci confirme que la certification reste valable.</li>
+                            </ul>
+                            <p>Toute éventuelle adaptation devra être notifiée par le titulaire de l'agrément à l'UBAtc, à l'opérateur d'agrément et à l'opérateur de certification et ce, préalablement à la mise en place de ces adaptations. Dans ce cas, et en fonction des informations communiquées, l'UBAtc, l'opérateur d'agrément et l'opérateur de certification évalueront la nécessité d'adapter ou non l'agrément technique.</p>
+                            <p>Si par contre les conditions susmentionnées n’étaient plus respectées, l'agrément technique pourrait être suspendu ou retiré et le texte d'agrément supprimé du site Internet de l'UBAtc.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

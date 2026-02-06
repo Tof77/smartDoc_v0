@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ubatc_lastpage">
+    <title outputclass="hidden"/>
+    <body>
+        <image href="img/butgb-ubatc_02_rgb.svg" height="49" width="454" id="image_xr3_jn4_dzb"
+            align="center"/>
+        <div outputclass="centeraligned margintop30 marginbottom30">
+            <p outputclass="centeraligned ubatcfullname">Belgische Unie voor de technische
+                goedkeuring in de bouw vzw</p>
+            <p outputclass="centeraligned ubatcfullname">Union belge pour l'Agrément technique de la
+                construction asbl</p>
+        </div>
+        <div outputclass="centeraligned marginbottom120">
+            <table id="table_yr3_jn4_dzb" outputclass="centeraligned">
+                <tgroup cols="1" align="center">
+                    <colspec colnum="1" colwidth="5cm" colname="col1" colsep="0" align="center"
+                        rowsep="0"/>
+                    <tbody>
+                        <row>
+                            <entry align="left">Maatschappelijke zetel:</entry>
+                        </row>
+                        <row>
+                            <entry align="left" outputclass="indent">
+                                <p>Lombardstraat  42</p>
+                                <p>1000 Brussel</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p outputclass="bold">Kantoren:</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left" outputclass="indent">
+                                <p>Kleine Kloosterstraat 23</p>
+                                <p>1932 Sint-Stevens-Woluwe</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p>Tel.: +32 (0)2 716 44 12</p>
+                                <p>info@butgb-ubatc.be</p>
+                                <p>www.butgb-ubatc.be</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p>BTW : BE 0820.344.539</p>
+                                <p>RPR Brussel</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </div>
+        <table id="table_bs3_jn4_dzb">
+            <tgroup cols="3" align="center">
+                <colspec colnum="1" colwidth="1*" colname="col1"/>
+                <colspec colnum="2" colwidth="1*" colname="col2"/>
+                <colspec colnum="3" colwidth="1*" colname="col3"/>
+                <tbody>
+                    <row>
+                        <entry namest="col1" nameend="col3" align="left"><p>De BUtgb vzw werd
+                                aangemeld door de FOD Economie in het kader van Verordening (EU)
+                                n°305/2011.</p> De BUtgb vzw is een goedkeuringsinstituut dat lid is
+                            van:<p/></entry>
+                    </row>
+                    <row>
+                        <entry><image href="img/EOTA.png" height="53" width="151"
+                                id="image_cs3_jn4_dzb"/></entry>
+                        <entry><image href="img/UEATC.png" height="68" width="63"
+                                id="image_ds3_jn4_dzb"/></entry>
+                        <entry><image href="img/WFTAO.png" height="66" width="136"
+                                id="image_es3_jn4_dzb"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

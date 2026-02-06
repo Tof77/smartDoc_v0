@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="doel_en_draagwijdte_van_de_technische_goedkeuring" xml:lang="nl" outputclass="twocolumns">
+    <title outputclass="hidden">Doel en draagwijdte van een technische goedkeuring</title>
+    <prolog>
+        <author>Christophe China</author>
+        <critdates>
+            <created date="2022-02-08"/>
+            <revised modified="2023-09-18"/>
+        </critdates>
+        <change-historylist>
+            <change-item>
+                <change-completed/>
+                <change-summary/>
+            </change-item>
+        </change-historylist>
+        <metadata>
+            <keywords>
+                <keyword>draagwijdte</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <table frame="none" rowsep="0" colsep="0" id="table_uf3_cnf_xyb">
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colwidth="10cm" align="left" colsep="0" rowsep="0"/>
+                <colspec colname="c2" colnum="2" colwidth="8cm"/>
+                <tbody>
+                    <row valign="middle" rowsep="0">
+                        <entry morerows="8" align="left"
+                            outputclass="gradientgreybackground cellpadding">
+                            <p>Een technische goedkeuring betreft een gunstige beoordeling door een
+                                door de BUtgb aangeduide competente, onafhankelijke en onpartijdige
+                                goedkeuringsoperator van een bouwproduct voor een welbepaalde
+                                toepassing.</p>
+                            <p>De technische goedkeuring legt de resultaten van het
+                                goedkeuringsonderzoek vast. Dit onderzoek bestaat uit: </p>
+                            <ul id="ul_fqx_5nf_xyb">
+                                <li>de identificatie van de relevante eigenschappen van het product
+                                    in functie van de beoogde toepassing en de plaatsings- of
+                                    verwerkingswijze ervan,</li>
+                                <li>het ontwerp van het product,</li>
+                                <li>de betrouwbaarheid van de productie.</li>
+                            </ul>
+                            <p>De technische goedkeuring heeft een hoog betrouwbaarheidsniveau door
+                                de statistische interpretatie van de controleresultaten, de
+                                periodieke opvolging, de aanpassing aan de stand van zaken en
+                                techniek en de kwaliteitsbewaking van de goedkeuringshouder.</p>
+                            <p>Het behouden van de technische goedkeuring vereist dat de
+                                goedkeuringshouder te allen tijde kan bewijzen dat hij het nodige
+                                doet opdat de gebruiksgeschiktheid van het product aangetoond
+                                blijft. De opvolging van de overeenstemming van het product met de
+                                technische goedkeuring is daarbij essentieel. Deze opvolging wordt
+                                door de BUtgb toevertrouwd aan een competente, onafhankelijke en
+                                onpartijdige certificatieoperator.</p>
+                            <p>De technische goedkeuring, evenals de certificatie van de
+                                overeenstemming van het product met de technische goedkeuring, staan
+                                los van individueel uitgevoerde werken. De aannemer en/of architect
+                                blijven onverminderd verantwoordelijk voor de overeenstemming van de
+                                uitgevoerde werken met de bepalingen van het bestek.</p>
+                            <p>De technische goedkeuring behandelt, met uitzondering van specifiek
+                                opgenomen bepalingen, niet de veiligheid op de bouwplaats,
+                                gezondheidsaspecten en duurzaam gebruik van grondstoffen. Bijgevolg
+                                is de BUtgb niet verantwoordelijk voor enige schade die zou worden
+                                veroorzaakt door het niet naleven door de Goedkeuringshouder of de
+                                aannemer(s) en/of de architect van de bepalingen m.b.t. veiligheid
+                                op de bouwplaats, gezondheidsaspecten en duurzaam gebruik van
+                                grondstoffen.</p>
+                        </entry>
+                        <entry align="left" outputclass="redubatc cellpadding operatortye"
+                            valign="bottom"><b>Goedkeuringsoperatoren</b></entry>
+                    </row>
+                    <row>
+                        <entry align="center" outputclass="cellpadding" valign="bottom"><image
+                                href="file:/Q:/dev/BUtgb/BUtgb%20ATG/Template/Pictures/logo_Buildwise.png"
+                                width="2.34cm" id="image_n4z_b4f_xyb"/></entry>
+                    </row>
+                    <row>
+                        <entry align="left" outputclass="cellpadding" valign="top">
+                            <p><b>Buildwise</b></p>
+                            <p>Kleine Kloosterstraat 23 1932 Zaventem</p>
+                            <p>info@buildwise.be - www.buildwise.be</p>
+                        </entry>
+                    </row>
+                    <row valign="middle">
+                        <entry align="center" outputclass="cellpadding" valign="bottom"><image
+                                href="file:/Q:/dev/BUtgb/BUtgb%20ATG/Template/Pictures/logo_SECO.png"
+                                width="2.34cm" id="image_yry_f4f_xyb"/></entry>
+                    </row>
+                    <row>
+                        <entry align="left" outputclass="cellpadding" valign="top">
+                            <p><b>SECO</b></p>
+                            <p>Hoofdzetel : Kantersteen 47 1000 Brussel</p>
+                            <p>Kantoren: Hermeslaan 9 1831 Diegem</p>
+                            <p>mail@seco.be - www.groupseco.be</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="left" outputclass="redubatc cellpadding operatortye"
+                            valign="bottom"><b>Certificatieoperatoren</b></entry>
+                    </row>
+                    <row>
+                        <entry align="center" outputclass="cellpadding" valign="bottom"><image
+                                href="file:/Q:/dev/BUtgb/BUtgb%20ATG/Template/Pictures/logo_BCCA.png"
+                                width="1.69cm" id="image_q5b_34f_xyb"/></entry>
+                    </row>
+                    <row outputclass="cellpadding">
+                        <entry align="left" outputclass="cellpadding" valign="top">
+                            <p><b>BCCA</b></p>
+                            <p>Hoofdzetel : Kantersteen 47 1000 Brussel</p>
+                            <p>Kantoren: Hermeslaan 9 1831 Diegem</p>
+                            <p>mail@bcca.be - www.bcca.be</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry outputclass="cellpadding"/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>
