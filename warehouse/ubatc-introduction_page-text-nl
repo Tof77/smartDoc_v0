@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE oXygen:ReusableComponent [
+<!ELEMENT oXygen:ReusableComponent (oXygen:ComponentDescription, oXygen:ComponentDefinition)>
+<!ATTLIST oXygen:ReusableComponent 
+    xmlns:oXygen CDATA #FIXED "http://www.oxygenxml.com/ns/dita/reuse" 
+    id CDATA #IMPLIED
+    xml:lang CDATA #IMPLIED
+    domains CDATA "(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)    (topic oXygen-reuse-d) "
+    class CDATA "- topic/topic oXygen:ReusableComponent/oXygen:ReusableComponent "    
+    xmlns:ditaarch CDATA #FIXED "http://dita.oasis-open.org/architecture/2005/"
+    ditaarch:DITAArchVersion CDATA #FIXED "1.2" 
+    >
+<!ELEMENT oXygen:ComponentDescription (#PCDATA)>
+<!ATTLIST oXygen:ComponentDescription 
+ class CDATA "- topic/title oXygen:ReusableComponent/oXygen:ComponentDescription ">
+<!ELEMENT oXygen:ComponentDefinition ANY>
+<!ATTLIST oXygen:ComponentDefinition
+    class CDATA "- topic/body oXygen:ReusableComponent/oXygen:ComponentDefinition ">
+
+<!ENTITY % dtd PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+%dtd;
+
+]>
+<oXygen:ReusableComponent id="ReusableComponent_mxz_2v4_kbc">
+    <oXygen:ComponentDescription/>
+    <oXygen:ComponentDefinition>
+        
+            <entry id="entry_nxz_2v4_kbc">             
+                <p>Een technische goedkeuring betreft een gunstige beoordeling door een door de BUtgb aangeduide competente, onafhankelijke en onpartijdige goedkeuringsoperator van een bouwproduct voor een welbepaalde toepassing.</p>
+                <p>De technische goedkeuring legt de resultaten van het goedkeuringsonderzoek vast. Dit onderzoek bestaat uit:</p>
+                <ul id="ul_fqx_5nf_xyb">
+                    <li>de identificatie van de relevante eigenschappen van het product in functie van de beoogde toepassing en de plaatsings- of verwerkingswijze ervan,</li>
+                    <li>het ontwerp van het product,</li>
+                    <li>de betrouwbaarheid van de productie.</li>
+                </ul>
+                <p>De technische goedkeuring heeft een hoog betrouwbaarheidsniveau door de statistische interpretatie van de controleresultaten, de periodieke opvolging, de aanpassing aan de stand van zaken en techniek en de kwaliteitsbewaking van de goedkeuringshouder.</p>
+                <p>Het behouden van de technische goedkeuring vereist dat de goedkeuringshouder te allen tijde kan bewijzen dat hij het nodige doet opdat de gebruiksgeschiktheid van het product aangetoond blijft. De opvolging van de overeenstemming van het product met de technische goedkeuring is daarbij essentieel. Deze opvolging wordt door de BUtgb toevertrouwd aan een competente, onafhankelijke en onpartijdige certificatieoperator.</p>
+                <p>De technische goedkeuring, evenals de certificatie van de overeenstemming van het product met de technische goedkeuring, staan los van individueel uitgevoerde werken. De aannemer en/of architect blijven onverminderd verantwoordelijk voor de overeenstemming van de uitgevoerde werken met de bepalingen van het bestek.</p>
+                <p>De technische goedkeuring behandelt, met uitzondering van specifiek opgenomen bepalingen, niet de veiligheid op de bouwplaats, gezondheidsaspecten en duurzaam gebruik van grondstoffen. Bijgevolg is de BUtgb niet verantwoordelijk voor enige schade die zou worden veroorzaakt door het niet naleven door de Goedkeuringshouder of de aannemer(s) en/of de architect van de bepalingen m.b.t. veiligheid op de bouwplaats, gezondheidsaspecten en duurzaam gebruik van grondstoffen.</p>
+            </entry>            
+
+    </oXygen:ComponentDefinition>
+</oXygen:ReusableComponent>

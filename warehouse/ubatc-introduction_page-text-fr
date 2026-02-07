@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE oXygen:ReusableComponent [
+<!ELEMENT oXygen:ReusableComponent (oXygen:ComponentDescription, oXygen:ComponentDefinition)>
+<!ATTLIST oXygen:ReusableComponent 
+    xmlns:oXygen CDATA #FIXED "http://www.oxygenxml.com/ns/dita/reuse" 
+    id CDATA #IMPLIED
+    xml:lang CDATA #IMPLIED
+    domains CDATA "(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)    (topic oXygen-reuse-d) "
+    class CDATA "- topic/topic oXygen:ReusableComponent/oXygen:ReusableComponent "    
+    xmlns:ditaarch CDATA #FIXED "http://dita.oasis-open.org/architecture/2005/"
+    ditaarch:DITAArchVersion CDATA #FIXED "1.2" 
+    >
+<!ELEMENT oXygen:ComponentDescription (#PCDATA)>
+<!ATTLIST oXygen:ComponentDescription 
+ class CDATA "- topic/title oXygen:ReusableComponent/oXygen:ComponentDescription ">
+<!ELEMENT oXygen:ComponentDefinition ANY>
+<!ATTLIST oXygen:ComponentDefinition
+    class CDATA "- topic/body oXygen:ReusableComponent/oXygen:ComponentDefinition ">
+
+<!ENTITY % dtd PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+%dtd;
+
+]>
+<oXygen:ReusableComponent id="ReusableComponent_yq1_qv4_kbc">
+    <oXygen:ComponentDescription></oXygen:ComponentDescription>
+    <oXygen:ComponentDefinition><row rowsep="0" valign="middle" id="row_zq1_qv4_kbc"><entry align="left" morerows="8" outputclass="gradientgreybackground cellpadding_leftcol" valign="top"><p>Un agrément technique concerne une évaluation favorable d'un produit de construction par un opérateur d'agrément compétent, indépendant et impartial désigné par l'UBAtc pour une application bien spécifique.</p><p>L'agrément technique consigne les résultats de l'examen d'agrément. Cet examen se décline comme suit :</p><ul id="ul_fqx_5nf_xyb"><li>identification des propriétés pertinentes du produit en fonction de l'application visée et du mode de pose (ou de mise en œuvre),</li><li>conception du produit</li><li>fiabilité de la production.</li></ul><p>L'agrément technique présente un niveau de fiabilité élevé compte tenu de l'interprétation statistique des résultats de contrôle, du suivi périodique, de l'adaptation à la situation et à l'état de la technique et de la surveillance de la qualité par le titulaire d'agrément.</p><p>Pour que l'agrément technique puisse être maintenu, le titulaire d'agrément doit apporter la preuve en permanence qu'il continue à faire le nécessaire pour que l'aptitude à l'emploi du produit soit démontrée. À cet égard, le suivi de la conformité du produit à l'agrément technique est essentiel. Ce suivi est confié par l'UBAtc à un opérateur de certification compétent, indépendant et impartial.</p><p>L'agrément technique et la certification de la conformité du produit à l'agrément technique sont indépendants des travaux effectués individuellement. L'entrepreneur et/ou l'architecte demeurent entièrement responsables de la conformité des travaux réalisés aux dispositions du cahier des charges.</p><p>Sauf disposition contraire, l'agrément technique ne traite pas de la sécurité sur chantier, d'aspects sanitaires ni de l'utilisation durable des matières premières. Par conséquent, l'UBAtc n'est en aucun cas responsable de dégâts causés par le non-respect, dans le chef du titulaire d'agrément ou de l'entrepreneur/des entrepreneurs et/ou de l'architecte, des dispositions ayant trait à la sécurité sur chantier, aux aspects sanitaires et à l'utilisation durable des matières premières.</p></entry><entry align="left" outputclass="redubatc cellpadding_rightcol extratopmargin operatortye" valign="bottom">Opérateurs d'agrément</entry></row></oXygen:ComponentDefinition>
+</oXygen:ReusableComponent>

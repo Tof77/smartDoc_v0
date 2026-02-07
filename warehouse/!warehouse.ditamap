@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Warehouse</title>
+    <topicmeta>
+        <metadata/>
+    </topicmeta>
+    <keydef href="warehouse_introduction_page_nl.dita" keys="secobuildwisebcca"/>
+</map>

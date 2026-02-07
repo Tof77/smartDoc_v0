@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="to_warehouse_notes">
+<title>Warehouse reference documents</title>
+<prolog status="new">
+<author/>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<body>
+        <ul id="ul_yjx_lbb_psb">
+            <li><cite id="cite_qpb_pdb_psb">Technische Voorlichting 215 : “Het platte dak – Opbouw,
+                                        materialen, uitvoering, onderhoud” (WTCB).</cite></li>
+            <li><cite id="cite_zlm_pdb_psb">Technische Voorlichting 244 : “Aansluitingsdetails bij
+                                        platte daken: algemene principes” (WTCB).</cite></li>
+            <li><cite id="cite_hnt_pdb_psb">“UEAtc Technical Guide for the assessment of
+                    non reinforced, reinforced and/or backed Roof Waterproofing Systems made of PVC
+                    (2001)”.</cite></li>
+            <li><cite id="cite_awx_pdb_psb">BUtgb Infoblad nr. 2012/02: “Windbelasting op platte
+                    daken volgens windnorm NBN EN 1991-1-4”.</cite></li>
+            <li><cite>Verwerkingsrichtlijnen van de Goedkeuringshouder</cite></li>
+                        <li><cite id="cite_cnk_w3k_1tb">Koninklijk Besluit van 7 juli 1994 tot
+                                        vaststelling van de basisnormen voor de preventie van brand
+                                        en ontploffing waaraan de gebouwen moeten voldoen.</cite>
+                                <ph>Wijzigingen: Koninklijk besuilt van 04 april 1996, Koninklijk
+                                        besuilt van 18 december 1996, Koninklijk besuilt van 19
+                                        december 1997, Koninklijk besuilt van 04 april 2003,
+                                        Koninklijk besuilt van 13 juni 2007 + Erratum, Koninklijk
+                                        besuilt van 18 september 2008, Koninklijk besuilt van 01
+                                        maart 2009 + Erratum, Koninklijk besuilt van 12 juli 2012 +
+                                        Erratum, Koninklijk besuilt van 07 december 2016</ph></li>
+        </ul>
+    </body>
+</topic>

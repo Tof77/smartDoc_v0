@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <domain>Roofs</domain>
+    <product_family>Waterproofing membranes</product_family>
+    <reference>ATG 1474</reference>
+    <holder>
+        <name>RENOLIT BELGIUM nv</name>
+        <street>Industriepark De Bruwaan 43</street>
+        <zipcode>9700</zipcode>
+        <city>Oudenaarde</city>
+        <country>Belgium</country>
+        <website>https://www.renolit.com</website>
+        <phone>+32 (0)55 33 97 11</phone>
+        <email>renolit.belgium@renolit.com</email>
+    </holder>
+    <system>
+        <array>
+            <membrane>
+                <detail>
+                    <name>RENOLIT ALKORPLAN L 35177</name>
+                    <type>PVC</type>
+                    <color_X20_upside>Gris clair</color_X20_upside>
+                    <color_X20_underside>Gris foncé</color_X20_underside>
+                    <finishing_X20_upside/>
+                    <finishing_X20_underside/>
+                    <Chemical_X20_resistance>
+                        <bitumen-resistant>false</bitumen-resistant>
+                    </Chemical_X20_resistance>
+                </detail>
+                <composition>
+                    <number_X20_of_X20_layers>3</number_X20_of_X20_layers>
+                    <reinforced>true</reinforced>
+                    <plasticisers>true</plasticisers>
+                    <heat_X20_and_X20_UV_X20_stabilisers>true</heat_X20_and_X20_UV_X20_stabilisers>
+                    <fungicides>true</fungicides>
+                    <pigments>true</pigments>
+                    <fire_X20_retardants>false</fire_X20_retardants>
+                    <additives_X20_against_X20_root_X20_growth>false</additives_X20_against_X20_root_X20_growth>
+                    <mineral_X20_fillers>true</mineral_X20_fillers>
+                    <reinforcement>
+                        <array>
+                            <identification_X20_name>VV35</identification_X20_name>
+                            <type>Voile de verre</type>
+                            <properties/>
+                        </array>
+                    </reinforcement>
+                    <manufacturing_X20_process>Les différentes couches sont obtenues et assemblées
+                        entre elles par un procédé combiné d'extrusion et/ou de calandrage et/ou de
+                        laminage.</manufacturing_X20_process>
+                </composition>
+                <properties>
+                    <effective_thickness>
+                        <array>
+                            <value>1.5</value>
+                            <units>mm</units>
+                            <tolerance>-5%, 10%</tolerance>
+                            <test_X20_method>NBN EN 1849-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </effective_thickness>
+                    <surface_X20_mass>
+                        <array>
+                            <value>1.8</value>
+                            <units>kg/m²</units>
+                            <tolerance>-5%, 10%</tolerance>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </surface_X20_mass>
+                    <nominal_X20_length>
+                        <array>
+                            <value>15</value>
+                            <units>m</units>
+                            <tolerance>-0%, +5%</tolerance>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </nominal_X20_length>
+                    <nominal_X20_width>
+                        <array>
+                            <value>2.15</value>
+                            <units>m</units>
+                            <tolerance>-0.5%, +1%</tolerance>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment>D'autres dimensions peuvent être fournies sur demande</comment>
+                        </array>
+                    </nominal_X20_width>
+                    <dimensional_X20_stability>
+                        <longitudinal>
+                            <array>
+                                <MLV>0.5</MLV>
+                                <value>0.1</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1107-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>0.5</MLV>
+                                <value>0.1</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1107-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </dimensional_X20_stability>
+                    <watertightness>
+                        <array>
+                            <MLV>10</MLV>
+                            <value>400</value>
+                            <units>kPa</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 1928</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </watertightness>
+                    <tensile_X20_strength>
+                        <longitudinal>
+                            <array>
+                                <MLV>9</MLV>
+                                <value>9</value>
+                                <units>N/mm²</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2 (méthode B)</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>9</MLV>
+                                <value>9</value>
+                                <units>N/mm²</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2 (méthode B)</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </tensile_X20_strength>
+                    <elongation_X20_at_X20_maximum_X20_tensile_X20_strength>
+                        <longitudinal>
+                            <array>
+                                <MLV>180</MLV>
+                                <value>180</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2 (méthode B)</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>180</MLV>
+                                <value>180</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2 (méthode B)</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </elongation_X20_at_X20_maximum_X20_tensile_X20_strength>
+                    <resistance_X20_to_X20_tearing_X20__X28_nail_X20_shank_X29_>
+                        <longitudinal>
+                            <array>
+                                <MLV>150</MLV>
+                                <value>325</value>
+                                <units>N</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12310-1</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>150</MLV>
+                                <value>325</value>
+                                <units>N</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12310-1</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </resistance_X20_to_X20_tearing_X20__X28_nail_X20_shank_X29_>
+                    <foldability_X20_at_X20_low_X20_temperature>
+                        <array>
+                            <MLV>-20</MLV>
+                            <value>-25</value>
+                            <units>°C</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 495-5</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </foldability_X20_at_X20_low_X20_temperature>
+                    <foldability_X20_at_X20_low_X20_temperature_X20_after_X20_aging/>
+                    <platiciser_X20_content>
+                        <array>
+                            <MLV>0</MLV>
+                            <value>37</value>
+                            <units>%</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </platiciser_X20_content>
+                    <platiciser_X20_content_X20_after_X20_aging/>
+                    <water_X20_absorption>
+                        <array>
+                            <MLV>2</MLV>
+                            <value>2</value>
+                            <units>%</units>
+                            <tolerance/>
+                            <test_X20_method>UEAtc</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </water_X20_absorption>
+                    <capilarity_X20_of_X20_the_X20_joints>
+                        <array>
+                            <MLV>15</MLV>
+                            <value>15</value>
+                            <units>mm</units>
+                            <tolerance/>
+                            <test_X20_method>UEAtc</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </capilarity_X20_of_X20_the_X20_joints>
+                    <loss_X20_of_X20_mass/>
+                    <joint_X20_strength_X3a__X20_peel_X20_resistance>
+                        <array>
+                            <MLV>150</MLV>
+                            <value>200</value>
+                            <units>N/50mm</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 12316-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </joint_X20_strength_X3a__X20_peel_X20_resistance>
+                    <joint_X20_strength_X3a__X20_shear_X20_resistance>
+                        <array>
+                            <MLV>0</MLV>
+                            <value>Rupture au joint</value>
+                            <units>N/50mm</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 12317-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </joint_X20_strength_X3a__X20_shear_X20_resistance>
+                    <resistance_X20_to_X20_static_X20_loading/>
+                    <resistance_X20_to_X20_impact/>
+                </properties>
+                <properties>
+                    <effective_thickness>
+                        <array>
+                            <value>1.8</value>
+                            <units>mm</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 1849-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </effective_thickness>
+                    <surface_X20_mass>
+                        <array>
+                            <value>2.15</value>
+                            <units>kg/m²</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </surface_X20_mass>
+                    <nominal_X20_length>
+                        <array>
+                            <value>15</value>
+                            <units>m</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </nominal_X20_length>
+                    <nominal_X20_width>
+                        <array>
+                            <value>2.15</value>
+                            <units>m</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment>D'autres dimensions peuvent être obtenues sur demande</comment>
+                        </array>
+                    </nominal_X20_width>
+                    <dimensional_X20_stability>
+                        <longitudinal>
+                            <array>
+                                <MLV>0.5</MLV>
+                                <value>0.1</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1107-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>0.5</MLV>
+                                <value>0.1</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1107-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </dimensional_X20_stability>
+                    <watertightness>
+                        <array>
+                            <MLV>10</MLV>
+                            <value>400</value>
+                            <units>kPa</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 1928</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </watertightness>
+                    <tensile_X20_strength>
+                        <longitudinal>
+                            <array>
+                                <MLV>10</MLV>
+                                <value>10</value>
+                                <units>N/50mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>10</MLV>
+                                <value>10</value>
+                                <units>N/50mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </tensile_X20_strength>
+                    <elongation_X20_at_X20_maximum_X20_tensile_X20_strength>
+                        <longitudinal>
+                            <array>
+                                <MLV>200</MLV>
+                                <value>200</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>200</MLV>
+                                <value>200</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </elongation_X20_at_X20_maximum_X20_tensile_X20_strength>
+                    <resistance_X20_to_X20_tearing_X20__X28_nail_X20_shank_X29_>
+                        <longitudinal>
+                            <array>
+                                <MLV>150</MLV>
+                                <value>350</value>
+                                <units>N</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12310-1</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>150</MLV>
+                                <value>350</value>
+                                <units>N</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12310-1</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </resistance_X20_to_X20_tearing_X20__X28_nail_X20_shank_X29_>
+                    <foldability_X20_at_X20_low_X20_temperature>
+                        <array>
+                            <MLV>-20</MLV>
+                            <value>-25</value>
+                            <units>°C</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 495-5</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </foldability_X20_at_X20_low_X20_temperature>
+                    <foldability_X20_at_X20_low_X20_temperature_X20_after_X20_aging>
+                        <After_X20_24_X20_weeks_X20_at_X20_70_Xb0_C>
+                            <array>
+                                <MLV>0</MLV>
+                                <value>0</value>
+                                <units>°C</units>
+                                <tolerance/>
+                                <test_X20_method>UEAtc</test_X20_method>
+                                <guid/>
+                                <description>After 24 weeks at 70°C</description>
+                                <comment/>
+                            </array>
+                        </After_X20_24_X20_weeks_X20_at_X20_70_Xb0_C>
+                    </foldability_X20_at_X20_low_X20_temperature_X20_after_X20_aging>
+                    <platiciser_X20_content>
+                        <array>
+                            <MLV>0</MLV>
+                            <value>37</value>
+                            <units>%</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </platiciser_X20_content>
+                    <platiciser_X20_content_X20_after_X20_aging>
+                        <after_X20_28_X20_days_X20_in_X20_water_X20_at_X20_23_X20__Xb0_C>
+                            <array>
+                                <MLV>3</MLV>
+                                <value>3</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN ISO 6427</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </after_X20_28_X20_days_X20_in_X20_water_X20_at_X20_23_X20__Xb0_C>
+                    </platiciser_X20_content_X20_after_X20_aging>
+                    <water_X20_absorption>
+                        <array>
+                            <MLV>2</MLV>
+                            <value>2</value>
+                            <units>%</units>
+                            <tolerance/>
+                            <test_X20_method>UEAtc</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </water_X20_absorption>
+                    <capilarity_X20_of_X20_the_X20_joints>
+                        <array>
+                            <MLV>15</MLV>
+                            <value>15</value>
+                            <units>mm</units>
+                            <tolerance/>
+                            <test_X20_method>UEAtc</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </capilarity_X20_of_X20_the_X20_joints>
+                    <loss_X20_of_X20_mass>
+                        <after_X20_4_X20_weeks_X20_at_X20_80_X20__Xb0_C>
+                            <array>
+                                <MLV>1</MLV>
+                                <value>1</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </after_X20_4_X20_weeks_X20_at_X20_80_X20__Xb0_C>
+                        <after_X20_12_X20_weeks_X20_at_X20_80_Xb0_C>
+                            <array>
+                                <MLV>2</MLV>
+                                <value>2</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </after_X20_12_X20_weeks_X20_at_X20_80_Xb0_C>
+                        <after_X20_exposure_X20_to_X20_micro-organisms>
+                            <array>
+                                <MLV>10</MLV>
+                                <value>10</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </after_X20_exposure_X20_to_X20_micro-organisms>
+                    </loss_X20_of_X20_mass>
+                    <joint_X20_strength_X3a__X20_peel_X20_resistance>
+                        <array>
+                            <MLV>150</MLV>
+                            <value>200</value>
+                            <units>N/50mm</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 12316-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </joint_X20_strength_X3a__X20_peel_X20_resistance>
+                    <joint_X20_strength_X3a__X20_shear_X20_resistance>
+                        <array>
+                            <MLV>0</MLV>
+                            <value>Rupture hors du joint</value>
+                            <units>N/50mm</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 12317-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </joint_X20_strength_X3a__X20_shear_X20_resistance>
+                    <resistance_X20_to_X20_static_X20_loading>
+                        <soft_X20_support>
+                            <array>
+                                <MLV>L20</MLV>
+                                <value>L20</value>
+                                <units/>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12730 (method A)</test_X20_method>
+                                <guid/>
+                                <description>EPS 100</description>
+                                <comment/>
+                            </array>
+                        </soft_X20_support>
+                        <hard_X20_support>
+                            <array>
+                                <MLV>L20</MLV>
+                                <value>L20</value>
+                                <units/>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12730 (method B)</test_X20_method>
+                                <guid/>
+                                <description>Concrete</description>
+                                <comment/>
+                            </array>
+                        </hard_X20_support>
+                    </resistance_X20_to_X20_static_X20_loading>
+                    <resistance_X20_to_X20_impact>
+                        <hard_X20_support>
+                            <array>
+                                <MLV>0</MLV>
+                                <value>700</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12691 (method A)</test_X20_method>
+                                <guid/>
+                                <description>Aluminium plate</description>
+                                <comment/>
+                            </array>
+                        </hard_X20_support>
+                        <soft_X20_support>
+                            <array>
+                                <MLV>0</MLV>
+                                <value>2000</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12691 (method B)</test_X20_method>
+                                <guid/>
+                                <description>EPS 150</description>
+                                <comment/>
+                            </array>
+                        </soft_X20_support>
+                    </resistance_X20_to_X20_impact>
+                </properties>
+                <properties>
+                    <effective_thickness>
+                        <array>
+                            <value>2</value>
+                            <units>mm</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 1849-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </effective_thickness>
+                    <surface_X20_mass>
+                        <array>
+                            <value>2.45</value>
+                            <units>kg/m²</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </surface_X20_mass>
+                    <nominal_X20_length>
+                        <array>
+                            <value>15</value>
+                            <units>m</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </nominal_X20_length>
+                    <nominal_X20_width>
+                        <array>
+                            <value>2.15</value>
+                            <units>m</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment>D'autres dimensions peuvent être obtenues sur demande</comment>
+                        </array>
+                    </nominal_X20_width>
+                    <dimensional_X20_stability>
+                        <longitudinal>
+                            <array>
+                                <MLV>0.5</MLV>
+                                <value>0.1</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1107-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>0.5</MLV>
+                                <value>0.1</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1107-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </dimensional_X20_stability>
+                    <watertightness>
+                        <array>
+                            <MLV>10</MLV>
+                            <value>400</value>
+                            <units>kPa</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 1928</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </watertightness>
+                    <tensile_X20_strength>
+                        <longitudinal>
+                            <array>
+                                <MLV>10</MLV>
+                                <value>10</value>
+                                <units>N/50mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>10</MLV>
+                                <value>10</value>
+                                <units>N/50mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </tensile_X20_strength>
+                    <elongation_X20_at_X20_maximum_X20_tensile_X20_strength>
+                        <longitudinal>
+                            <array>
+                                <MLV>200</MLV>
+                                <value>200</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>200</MLV>
+                                <value>200</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12311-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </elongation_X20_at_X20_maximum_X20_tensile_X20_strength>
+                    <resistance_X20_to_X20_tearing_X20__X28_nail_X20_shank_X29_>
+                        <longitudinal>
+                            <array>
+                                <MLV>150</MLV>
+                                <value>350</value>
+                                <units>N</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12310-1</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </longitudinal>
+                        <transversal>
+                            <array>
+                                <MLV>150</MLV>
+                                <value>350</value>
+                                <units>N</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12310-1</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </transversal>
+                    </resistance_X20_to_X20_tearing_X20__X28_nail_X20_shank_X29_>
+                    <foldability_X20_at_X20_low_X20_temperature>
+                        <array>
+                            <MLV>-20</MLV>
+                            <value>-25</value>
+                            <units>°C</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 495-5</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </foldability_X20_at_X20_low_X20_temperature>
+                    <foldability_X20_at_X20_low_X20_temperature_X20_after_X20_aging>
+                        <After_X20_24_X20_weeks_X20_at_X20_70_Xb0_C>
+                            <array>
+                                <MLV>0</MLV>
+                                <value>0</value>
+                                <units>°C</units>
+                                <tolerance/>
+                                <test_X20_method>UEAtc</test_X20_method>
+                                <guid/>
+                                <description>After 24 weeks at 70°C</description>
+                                <comment/>
+                            </array>
+                        </After_X20_24_X20_weeks_X20_at_X20_70_Xb0_C>
+                    </foldability_X20_at_X20_low_X20_temperature_X20_after_X20_aging>
+                    <platiciser_X20_content>
+                        <array>
+                            <MLV>0</MLV>
+                            <value>37</value>
+                            <units>%</units>
+                            <tolerance/>
+                            <test_X20_method/>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </platiciser_X20_content>
+                    <platiciser_X20_content_X20_after_X20_aging>
+                        <after_X20_28_X20_days_X20_in_X20_water_X20_at_X20_23_X20__Xb0_C>
+                            <array>
+                                <MLV>3</MLV>
+                                <value>3</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN ISO 6427</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </after_X20_28_X20_days_X20_in_X20_water_X20_at_X20_23_X20__Xb0_C>
+                    </platiciser_X20_content_X20_after_X20_aging>
+                    <water_X20_absorption>
+                        <array>
+                            <MLV>2</MLV>
+                            <value>2</value>
+                            <units>%</units>
+                            <tolerance/>
+                            <test_X20_method>UEAtc</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </water_X20_absorption>
+                    <capilarity_X20_of_X20_the_X20_joints>
+                        <array>
+                            <MLV>15</MLV>
+                            <value>15</value>
+                            <units>mm</units>
+                            <tolerance/>
+                            <test_X20_method>UEAtc</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </capilarity_X20_of_X20_the_X20_joints>
+                    <loss_X20_of_X20_mass>
+                        <after_X20_4_X20_weeks_X20_at_X20_80_X20__Xb0_C>
+                            <array>
+                                <MLV>1</MLV>
+                                <value>1</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </after_X20_4_X20_weeks_X20_at_X20_80_X20__Xb0_C>
+                        <after_X20_12_X20_weeks_X20_at_X20_80_Xb0_C>
+                            <array>
+                                <MLV>2</MLV>
+                                <value>2</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </after_X20_12_X20_weeks_X20_at_X20_80_Xb0_C>
+                        <after_X20_exposure_X20_to_X20_micro-organisms>
+                            <array>
+                                <MLV>10</MLV>
+                                <value>10</value>
+                                <units>%</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </after_X20_exposure_X20_to_X20_micro-organisms>
+                    </loss_X20_of_X20_mass>
+                    <joint_X20_strength_X3a__X20_peel_X20_resistance>
+                        <array>
+                            <MLV>150</MLV>
+                            <value>200</value>
+                            <units>N/50mm</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 12316-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </joint_X20_strength_X3a__X20_peel_X20_resistance>
+                    <joint_X20_strength_X3a__X20_shear_X20_resistance>
+                        <array>
+                            <MLV>0</MLV>
+                            <value>Rupture hors du joint</value>
+                            <units>N/50mm</units>
+                            <tolerance/>
+                            <test_X20_method>NBN EN 12317-2</test_X20_method>
+                            <guid/>
+                            <description/>
+                            <comment/>
+                        </array>
+                    </joint_X20_strength_X3a__X20_shear_X20_resistance>
+                    <resistance_X20_to_X20_static_X20_loading>
+                        <soft_X20_support>
+                            <array>
+                                <MLV>L20</MLV>
+                                <value>L20</value>
+                                <units/>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12730 (method A)</test_X20_method>
+                                <guid/>
+                                <description>EPS 100</description>
+                                <comment/>
+                            </array>
+                        </soft_X20_support>
+                        <hard_X20_support>
+                            <array>
+                                <MLV>L20</MLV>
+                                <value>L20</value>
+                                <units/>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12730 (method B)</test_X20_method>
+                                <guid/>
+                                <description>Concrete</description>
+                                <comment/>
+                            </array>
+                        </hard_X20_support>
+                    </resistance_X20_to_X20_static_X20_loading>
+                    <resistance_X20_to_X20_impact>
+                        <hard_X20_support>
+                            <array>
+                                <MLV>0</MLV>
+                                <value>800</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12691 (method A)</test_X20_method>
+                                <guid/>
+                                <description>Aluminium plate</description>
+                                <comment/>
+                            </array>
+                        </hard_X20_support>
+                        <soft_X20_support>
+                            <array>
+                                <MLV>0</MLV>
+                                <value>2000</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 12691 (method B)</test_X20_method>
+                                <guid/>
+                                <description>EPS 150</description>
+                                <comment/>
+                            </array>
+                        </soft_X20_support>
+                    </resistance_X20_to_X20_impact>
+                </properties>
+            </membrane>
+            <auxiliary_X20_component>
+                <membrane_X20_for_X20_roof_X20_details>
+                    <name>RENOLIT ALKORPLAN D 35X70</name>
+                    <type>PVC</type>
+                    <bitumen-resistant>false</bitumen-resistant>
+                    <reinforced>false</reinforced>
+                    <underfaced>false</underfaced>
+                    <applications>Pénétrations de toiture</applications>
+                    <applications>Lanterneaux/Coupoles</applications>
+                    <applications>Evacuations d'eau</applications>
+                    <properties>
+                        <effective_X20_thickness>
+                            <array>
+                                <value>1.5</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1849-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </effective_X20_thickness>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>true</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <manufacturing_X20__X26__X20_sales>
+                        <manufacturer>
+                            <array/>
+                        </manufacturer>
+                        <reseller>
+                            <array/>
+                        </reseller>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life/>
+                        <instructions/>
+                    </storage>
+                </membrane_X20_for_X20_roof_X20_details>
+                <membrane_X20_for_X20_roof_X20_details>
+                    <name>RENOLIT ALKORPLAN F 35176</name>
+                    <type>PVC</type>
+                    <bitumen-resistant>false</bitumen-resistant>
+                    <reinforced>true</reinforced>
+                    <underfaced>false</underfaced>
+                    <applications>Relevés d'étanchéité</applications>
+                    <applications>Costières/Solins</applications>
+                    <properties>
+                        <effective_X20_thickness>
+                            <array>
+                                <value>1.2</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1849-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </effective_X20_thickness>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>false</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <ATG_X20_reference>ATG 1707</ATG_X20_reference>
+                    <manufacturing_X20__X26__X20_sales>
+                        <manufacturer>
+                            <array/>
+                        </manufacturer>
+                        <reseller>
+                            <array/>
+                        </reseller>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life/>
+                        <instructions/>
+                    </storage>
+                </membrane_X20_for_X20_roof_X20_details>
+                <membrane_X20_for_X20_roof_X20_details>
+                    <name>RENOLIT ALKORPLAN F 35276</name>
+                    <type>PVC</type>
+                    <bitumen-resistant>false</bitumen-resistant>
+                    <reinforced>true</reinforced>
+                    <underfaced>false</underfaced>
+                    <applications>Relevés d'étanchéité</applications>
+                    <applications>Costières/Solins</applications>
+                    <properties>
+                        <effective_X20_thickness>
+                            <array>
+                                <value>1.2</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1849-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </effective_X20_thickness>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>false</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <ATG_X20_reference>ATG 1707</ATG_X20_reference>
+                    <manufacturing_X20__X26__X20_sales>
+                        <manufacturer>
+                            <array/>
+                        </manufacturer>
+                        <reseller>
+                            <array/>
+                        </reseller>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life/>
+                        <instructions/>
+                    </storage>
+                </membrane_X20_for_X20_roof_X20_details>
+                <membrane_X20_for_X20_roof_X20_details>
+                    <name>RENOLIT ALKORPLAN A 35179</name>
+                    <type>PVC</type>
+                    <bitumen-resistant>false</bitumen-resistant>
+                    <reinforced>false</reinforced>
+                    <underfaced>true</underfaced>
+                    <underfacing_X20_type>Feutre polyester</underfacing_X20_type>
+                    <applications>Relevés d'étanchéité</applications>
+                    <applications>Costières/Solins</applications>
+                    <properties>
+                        <effective_X20_thickness>
+                            <array>
+                                <value>1.2</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1849-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </effective_X20_thickness>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>false</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <ATG_X20_reference>ATG 1866</ATG_X20_reference>
+                    <manufacturing_X20__X26__X20_sales>
+                        <manufacturer>
+                            <array/>
+                        </manufacturer>
+                        <reseller>
+                            <array/>
+                        </reseller>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life/>
+                        <instructions/>
+                    </storage>
+                </membrane_X20_for_X20_roof_X20_details>
+                <membrane_X20_for_X20_roof_X20_details>
+                    <name>RENOLIT ALKORPLAN A 35179 FR</name>
+                    <type>PVC</type>
+                    <bitumen-resistant>false</bitumen-resistant>
+                    <reinforced>false</reinforced>
+                    <underfaced>true</underfaced>
+                    <underfacing_X20_type>Feutre polyester</underfacing_X20_type>
+                    <applications>Relevés d'étanchéité</applications>
+                    <applications>Costières/Solins</applications>
+                    <properties>
+                        <effective_X20_thickness>
+                            <array>
+                                <value>1.2</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1849-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </effective_X20_thickness>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>false</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <ATG_X20_reference>ATG 1866</ATG_X20_reference>
+                    <manufacturing_X20__X26__X20_sales>
+                        <manufacturer>
+                            <array/>
+                        </manufacturer>
+                        <reseller>
+                            <array/>
+                        </reseller>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life/>
+                        <instructions/>
+                    </storage>
+                </membrane_X20_for_X20_roof_X20_details>
+                <membrane_X20_for_X20_roof_X20_details>
+                    <name>RENOLIT ALKORPLAN A 35279</name>
+                    <type>PVC</type>
+                    <bitumen-resistant>false</bitumen-resistant>
+                    <reinforced>false</reinforced>
+                    <underfaced>true</underfaced>
+                    <underfacing_X20_type>Feutre polyester</underfacing_X20_type>
+                    <applications>Relevés d'étanchéité</applications>
+                    <applications>Costières/Solins</applications>
+                    <properties>
+                        <effective_X20_thickness>
+                            <array>
+                                <value>1.2</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1849-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </effective_X20_thickness>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>false</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <ATG_X20_reference>ATG 1866</ATG_X20_reference>
+                    <manufacturing_X20__X26__X20_sales>
+                        <manufacturer>
+                            <array/>
+                        </manufacturer>
+                        <reseller>
+                            <array/>
+                        </reseller>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life/>
+                        <instructions/>
+                    </storage>
+                </membrane_X20_for_X20_roof_X20_details>
+                <membrane_X20_for_X20_roof_X20_details>
+                    <name>RENOLIT ALKORPLAN L 35177 A</name>
+                    <type>PVC</type>
+                    <bitumen-resistant>false</bitumen-resistant>
+                    <reinforced>false</reinforced>
+                    <underfaced>true</underfaced>
+                    <underfacing_X20_type>Feutre polyester</underfacing_X20_type>
+                    <applications>Relevés d'étanchéité</applications>
+                    <applications>Costières/Solins</applications>
+                    <properties>
+                        <effective_X20_thickness>
+                            <array>
+                                <value>1.5</value>
+                                <units>mm</units>
+                                <tolerance/>
+                                <test_X20_method>NBN EN 1849-2</test_X20_method>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </effective_X20_thickness>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>true</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <manufacturing_X20__X26__X20_sales>
+                        <manufacturer>
+                            <array/>
+                        </manufacturer>
+                        <reseller>
+                            <array/>
+                        </reseller>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life/>
+                        <instructions/>
+                    </storage>
+                </membrane_X20_for_X20_roof_X20_details>
+                <pre-formed_X20_corner_X20_pieces_X20_and_X20_roofing_X20_accessories>
+                    <array/>
+                </pre-formed_X20_corner_X20_pieces_X20_and_X20_roofing_X20_accessories>
+                <mechanical_X20_fixing>
+                    <array/>
+                </mechanical_X20_fixing>
+                <glue>
+                    <description>
+                        <name>RENOLIT ALKORPLUS 81040</name>
+                        <type>Colle de contact monocomposant à base de caoutchouc nitrile
+                            (NBR)</type>
+                        <color>Transparent</color>
+                    </description>
+                    <applications>
+                        <use>Pour la réalisation des détails de toitures (pénétrations, relevés,
+                            costières, ...) par double encollage</use>
+                        <consumption>+/- 300 g/m² (en adhérence totale)</consumption>
+                        <operating_X20_temperature>>= 10 °C</operating_X20_temperature>
+                        <compatibilty_X20_with_X20_underground>La colle est utilisable sur la
+                            plupart des supports à l'exception du béton léger et de membranes
+                            bitumineuses</compatibilty_X20_with_X20_underground>
+                    </applications>
+                    <properties>
+                        <volume_X20_mass>
+                            <array>
+                                <value>0.9</value>
+                                <units>g/cm³</units>
+                                <tolerance>-5%, +5%</tolerance>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </volume_X20_mass>
+                        <ash_X20_content>
+                            <array>
+                                <value>28</value>
+                                <units>%</units>
+                                <tolerance>-2%, +2%</tolerance>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </ash_X20_content>
+                        <flashpoint>
+                            <array>
+                                <value>-4</value>
+                                <units>°C</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </flashpoint>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>true</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <manufacturing_X20__X26__X20_sales>
+                        <array/>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life>12 mois (entre 5 °C et 25 °C)</storage_X20_life>
+                    </storage>
+                </glue>
+                <glue>
+                    <description>
+                        <name>RENOLIT ALKORPLUS 81064</name>
+                        <type>Colle de contact monocomposant à base de caoutchouc synthétique</type>
+                        <color>bleu/vert</color>
+                    </description>
+                    <applications>
+                        <use>Pour la réalisation des détails de toiture (pénétrations, relevés,
+                            costières, ...) par double encollage. Pour autant qu'ils soient réalisés
+                            avec une membrane sous-facée</use>
+                        <consumption>+/- 300 g/m² (en adhérence totale)</consumption>
+                        <operating_X20_temperature>>= 10 °C</operating_X20_temperature>
+                        <compatibilty_X20_with_X20_underground>La colle est utilisable sur la
+                            plupart des supports à l'exception du béton léger et de membranes
+                            bitumineuses</compatibilty_X20_with_X20_underground>
+                    </applications>
+                    <properties>
+                        <volume_X20_mass>
+                            <array>
+                                <value>0.9</value>
+                                <units>g/cm³</units>
+                                <tolerance>-5%, +5%</tolerance>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </volume_X20_mass>
+                        <ash_X20_content>
+                            <array>
+                                <value>37</value>
+                                <units>%</units>
+                                <tolerance>-2%, +2%</tolerance>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </ash_X20_content>
+                        <flashpoint>
+                            <array>
+                                <value>-26</value>
+                                <units>°C</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </flashpoint>
+                    </properties>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>true</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    <manufacturing_X20__X26__X20_sales>
+                        <array/>
+                    </manufacturing_X20__X26__X20_sales>
+                    <storage>
+                        <storage_X20_life/>
+                    </storage>
+                </glue>
+                <primer>
+                    <array/>
+                </primer>
+                <cleaner>
+                    <array/>
+                </cleaner>
+                <expansion_X20_joint>
+                    <array/>
+                </expansion_X20_joint>
+                <partition_X20_layer>
+                    <name>RENOLIT ALKORPLUS 81001</name>
+                    <type>Voile de verre</type>
+                    <properties>
+                        <surface_X20_mass>
+                            <array>
+                                <value>120</value>
+                                <units>g/m²</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </surface_X20_mass>
+                    </properties>
+                    <use>
+                        <array>Avoid direct contact of the membrane with chemically non-compatible
+                            materials</array>
+                    </use>
+                    <comment>à utiliser en cas de contact avec du PU parementé d'un voile de verre
+                        bitumé, de l'EPS/XPS nu ou parementé d'un voile de verre bitumé</comment>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>true</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                </partition_X20_layer>
+                <partition_X20_layer>
+                    <name>RENOLIT ALKORPLUS 81005</name>
+                    <type>Non-tissé synthétique</type>
+                    <properties>
+                        <surface_X20_mass>
+                            <array>
+                                <value>300</value>
+                                <units>g/m²</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </surface_X20_mass>
+                    </properties>
+                    <use>
+                        <array>Avoid direct contact of the membrane with chemically non-compatible
+                            materials</array>
+                    </use>
+                    <comment>à utiliser en cas de contact avec du bitume, du PU parementé d'un voile
+                        de verre bitumé, de l'EPS/XPS nu ou parementé d'un voile de verre
+                        bitumé</comment>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>true</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                </partition_X20_layer>
+                <partition_X20_layer>
+                    <name>RENOLIT ALKORPLUS 81008</name>
+                    <type>Non-tissé synthétique</type>
+                    <properties>
+                        <surface_X20_mass>
+                            <array>
+                                <value>180</value>
+                                <units>g/m²</units>
+                                <tolerance/>
+                                <test_X20_method/>
+                                <guid/>
+                                <description/>
+                                <comment/>
+                            </array>
+                        </surface_X20_mass>
+                    </properties>
+                    <use>
+                        <array>Avoid direct contact of the membrane with chemically non-compatible
+                            materials</array>
+                    </use>
+                    <comment>à utiliser en cas de contact avec du PU parementé d'un voile de verre
+                        bitumé, de l'EPS/XPS nu ou parementé d'un voile de verre bitumé</comment>
+                    <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>true</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                </partition_X20_layer>
+                <protection_X20_layer>
+                    <array>
+                        <name>RENOLIT ALKORPLAN 35121</name>
+                        <type>Membrane PVC (0.6mm) sous-facée d'un feutre polyester de 300
+                            g/m²</type>
+                        <properties/>
+                        <comment/>
+                        <not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>true</not_X20_part_X20_of_X20_this_X20_approval_X20_and_X20_not_X20_subject_X20_to_X20_certification>
+                    </array>
+                </protection_X20_layer>
+                <thermal_X20_insulation>
+                    <array/>
+                </thermal_X20_insulation>
+                <vapour_X20_barrier>
+                    <array/>
+                </vapour_X20_barrier>
+                <metal_X20_foil_X20_sheet>
+                    <array/>
+                </metal_X20_foil_X20_sheet>
+            </auxiliary_X20_component>
+            <assembly>
+                <conditions_X20_for_X20_the_X20_execution_X20_of_X20_the_X20_work>
+                    <minimum_X20_ambient_X20_temperature>0</minimum_X20_ambient_X20_temperature>
+                </conditions_X20_for_X20_the_X20_execution_X20_of_X20_the_X20_work>
+                <placement_X20_of_X20_the_X20_sheets>
+                    <array>
+                        <type>free-standing placement with ballast (LL)</type>
+                        <max_X20_slope>
+                            <value>5% (3°)</value>
+                            <comment>en cas de lestage au gravier</comment>
+                        </max_X20_slope>
+                        <max_X20_slope>
+                            <value>10% (6°)</value>
+                            <comment>en cas d'utilisation de dalles</comment>
+                        </max_X20_slope>
+                        <Possible_X20_undergrounds>
+                            <array>
+                                <nature>PU coated with bituminous glass mat</nature>
+                                <nature>EPS coated with bituminous glass mat</nature>
+                                <nature>Existing waterproofing</nature>
+                                <comment/>
+                                <partition_X20_layer>true</partition_X20_layer>
+                            </array>
+                        </Possible_X20_undergrounds>
+                        <overlapping_X20_of_X20_sheets>
+                            <array>
+                                <assembly_X20_technique/>
+                                <Minimum_X20_overlapping>
+                                    <longitudinal>
+                                        <array>
+                                            <value>0</value>
+                                            <units>mm</units>
+                                            <tolerance/>
+                                            <description/>
+                                            <comment/>
+                                        </array>
+                                    </longitudinal>
+                                    <transversal>
+                                        <array>
+                                            <value>0</value>
+                                            <units>mm</units>
+                                            <tolerance/>
+                                            <description/>
+                                            <comment/>
+                                        </array>
+                                    </transversal>
+                                </Minimum_X20_overlapping>
+                                <minimum_X20_width_X20_of_X20_the_X20_weld>0</minimum_X20_width_X20_of_X20_the_X20_weld>
+                                <comment/>
+                            </array>
+                        </overlapping_X20_of_X20_sheets>
+                        <peripheral_X20_fixing/>
+                        <protection_X20_layer>RENOLIT ALKORPLAN 35121 (non nécessaire en présence de
+                            gravier lavé et roulé de calibre >= 16/32)</protection_X20_layer>
+                        <instructions_X20_for_X20_placement>
+                            <array/>
+                        </instructions_X20_for_X20_placement>
+                        <necessary_X20_component>
+                            <array>
+                                <name>
+                                    <array/>
+                                </name>
+                            </array>
+                        </necessary_X20_component>
+                    </array>
+                </placement_X20_of_X20_the_X20_sheets>
+            </assembly>
+        </array>
+    </system>
+</document>

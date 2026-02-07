@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE oXygen:ReusableComponent [
+<!ELEMENT oXygen:ReusableComponent (oXygen:ComponentDescription, oXygen:ComponentDefinition)>
+<!ATTLIST oXygen:ReusableComponent 
+    xmlns:oXygen CDATA #FIXED "http://www.oxygenxml.com/ns/dita/reuse" 
+    id CDATA #IMPLIED
+    xml:lang CDATA #IMPLIED
+    domains CDATA "(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)    (topic oXygen-reuse-d) "
+    class CDATA "- topic/topic oXygen:ReusableComponent/oXygen:ReusableComponent "    
+    xmlns:ditaarch CDATA #FIXED "http://dita.oasis-open.org/architecture/2005/"
+    ditaarch:DITAArchVersion CDATA #FIXED "1.2" 
+    >
+<!ELEMENT oXygen:ComponentDescription (#PCDATA)>
+<!ATTLIST oXygen:ComponentDescription 
+ class CDATA "- topic/title oXygen:ReusableComponent/oXygen:ComponentDescription ">
+<!ELEMENT oXygen:ComponentDefinition ANY>
+<!ATTLIST oXygen:ComponentDefinition
+    class CDATA "- topic/body oXygen:ReusableComponent/oXygen:ComponentDefinition ">
+
+<!ENTITY % dtd PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+%dtd;
+
+]>
+<oXygen:ReusableComponent id="ReusableComponent_f44_xtj_kbc">
+    <oXygen:ComponentDescription/>
+    <oXygen:ComponentDefinition>        
+            <entry align="center" outputclass="cellpadding_rightcol" valign="bottom" id="entry_h44_xtj_kbc">
+                <image href="../ubatc-template-css/Images/logo_BCCA.svg" id="image_q5b_34f_xyb" width="1.69cm"/>
+            </entry>
+        </oXygen:ComponentDefinition>
+</oXygen:ReusableComponent>

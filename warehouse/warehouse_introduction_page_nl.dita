@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+"topic.dtd">
+<topic id="" outputclass="twocolumns" xml:lang="nl">
+    <title outputclass="hidden">Introduction Page</title>
+    <body>
+        <table colsep="0" frame="none" id="coordonnees" rowsep="0" id="secobuildwisebcca_operator_nl">
+            <tgroup align="center" cols="2">
+                <colspec align="left" colname="c1" colnum="1" colsep="0" colwidth="10cm" rowsep="0"/>
+                <colspec colname="c2" colnum="2" colwidth="8cm"/>
+                <tbody>
+                    <row rowsep="0" valign="middle">
+                        <entry conref="ubatc-introduction_page-text-nl#ReusableComponent_mxz_2v4_kbc/entry_nxz_2v4_kbc" align="left" outputclass="gradientgreybackground cellpadding_leftcol" valign="top" morerows="8"/>
+                        <entry align="left" outputclass="redubatc cellpadding_rightcol extratopmargin operatortye" valign="bottom">Opérateurs d'agrément</entry>
+                    </row>                    
+                    <row>
+                        <entry conref="Buildwise-logo#ReusableComponent_q3d_rtj_kbc/entry_r3d_rtj_kbc" align="center" outputclass="cellpadding_rightcol" valign="bottom"/>
+                    </row>
+                    <row>
+                        <entry conref="Buildwise-companydetails#ReusableComponent_dhf_ntj_kbc/entry_ehf_ntj_kbc" align="left" outputclass="cellpadding_rightcol" valign="top"/>
+                    </row>
+                    <row valign="middle">
+                        <entry conref="Seco-logo#ReusableComponent_cwp_ttj_kbc/entry_dwp_ttj_kbc" align="center" outputclass="cellpadding_rightcol" valign="bottom"/>
+                    </row>
+                    <row>
+                        <entry conref="Seco-companydetails-nl#ReusableComponent_ahh_vtj_kbc/entry_chh_vtj_kbc" align="left" outputclass="cellpadding_rightcol" valign="top"/>
+                    </row>
+                    <row>
+                        <entry align="left" outputclass="redubatc cellpadding_rightcol extratopmargin operatortye" valign="bottom">Certificatieoperator</entry>
+                    </row>
+                    <row>
+                        <entry conref="BCCA-logo#ReusableComponent_f44_xtj_kbc/entry_h44_xtj_kbc" align="center" outputclass="cellpadding_rightcol" valign="bottom"/>
+                    </row>
+                    <row>
+                        <entry conref="BCCA-companydetails-nl#ReusableComponent_p3x_ytj_kbc/entry_q3x_ytj_kbc" align="left" outputclass="cellpadding_rightcol" valign="top"/>
+                    </row>
+                    <row>
+                        <entry outputclass="cellpadding_rightcol"/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>
