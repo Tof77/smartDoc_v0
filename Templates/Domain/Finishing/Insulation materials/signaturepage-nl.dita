@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="finishing_signaturepage_fr">
+    <title outputclass="hidden"/>
+    <body outputclass="rightaligned">
+        <p>Deze technische goedkeuring is gepubliceerd door de BUtgb, onder verantwoordelijkheid van de goedkeuringsoperator, SECO/Buildwise, en op basis van het gunstig advies van de gespecialiseerde groep "Afwerking", verleend op <ph id="BkDateGG">dd mmm yyyy</ph>.</p>
+        <p>Daarnaast bevestigde de certificatieoperator, BCCA, dat de productie aan de certificatievoorwaarden voldoet en dat met de goedkeuringshouder een certificatieovereenkomst ondertekend werd.</p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p>Datum van deze uitgave: <ph id="BkDatePublication">dd mmm yyyy</ph>.</p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <div outputclass="rightaligned">
+            <table id="table_csd_3jp_dzb">
+                <tgroup cols="3">
+                    <colspec colnum="1" colwidth="5.74cm" colname="col1" align="left"/>
+                    <colspec colnum="2" colwidth="5.17cm" colname="col2"/>
+                    <colspec colnum="3" colwidth="5.17cm" colname="col3"/>
+                    <tbody>
+                        <row outputclass="extrarowheight">
+                            <entry align="left" valign="middle">Voor de<b>BUtgb</b>,  als geldigverklaring van het goedkeuringsproces</entry>
+                            <entry valign="bottom" align="center" outputclass="centeraligned"><p>Eric Winnepenninckx</p>Secretaris Generaal</entry>
+                            <entry valign="bottom" align="center" outputclass="centeraligned">
+                                <p>Benny De Blaere</p>
+                                <p>Directeur</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry valign="bottom" align="left">Voor de operatoren</entry>
+                            <entry align="center"> </entry>
+                            <entry align="center"> </entry>
+                        </row>
+                        <row outputclass="extrarowheight">
+                            <entry align="right" valign="middle"><b>SECO</b></entry>
+                            <entry namest="col2" nameend="col3" align="center" valign="bottom" outputclass="centeraligned">
+                                <p>Bernard Heiderscheidt</p>
+                                <p>Directeur</p>
+                            </entry>
+                        </row>
+                        <row outputclass="extrarowheight">
+                            <entry align="right" valign="middle"><b>Buildwise</b></entry>
+                            <entry namest="col2" nameend="col3" valign="bottom" align="center" outputclass="centeraligned">
+                                <p>Olivier Vandooren</p>
+                                <p>Directeur</p>
+                            </entry>
+                        </row>
+                        <row outputclass="extrarowheight">
+                            <entry align="right" valign="middle"><b>BCCA</b></entry>
+                            <entry namest="col2" nameend="col3" valign="bottom" align="center" outputclass="centeraligned">
+                                <p>Olivier Delbrouck</p>
+                                <p>Directeur</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </div>
+        <p> </p>
+    </body>
+</topic>

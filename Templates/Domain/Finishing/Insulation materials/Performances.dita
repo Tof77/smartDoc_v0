@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ycn_wsy_zyb">
+    <title>Performances</title>
+    <body>
+        <section>
+            <title>Performances thermiques</title>
+            <div conkeyref="thermal_performance_template/thermal_insulation_of_cavity_walls-thermal_performance"/>
+        </section>
+        <section id="section_xsl_pfz_zyb">
+            <title outputclass="hidden">Valeurs R<sub>isol</sub></title>
+            <table conkeyref="iko_enertherm_alu_pure-thermalresistance_fr/iko_enertherm_alu_pure-thermalresistancetable_fr" id="table_l2j_kdf_1zb">
+                <tgroup cols="1">
+                    <tbody>
+                        <row>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table conkeyref="iko_enertherm_alu-thermalresistance_fr/iko_enertherm_alu-thermalresistancetable_fr" id="table_k2n_vdf_1zb">
+                <tgroup cols="1">
+                    <tbody>
+                        <row>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_m1w_xtf_1zb">
+            <title>Autres performances</title>
+            <p/>
+        </section>
+    </body>
+
+</topic>

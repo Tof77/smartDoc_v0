@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <title>Attributes in use</title>
+    <hasInstance>
+        <subjectdef keys="productKey">
+            <subjectdef keys="ATGH867"></subjectdef>
+            <subjectdef keys="ATGH706"></subjectdef>
+            <subjectdef keys="ATGH577-1"></subjectdef>
+        </subjectdef>
+        <subjectdef keys="audienceKey"></subjectdef>
+        <subjectdef keys="deliveryTargetKey">
+            <subjectdef keys="print"></subjectdef>
+            <subjectdef keys="screen"></subjectdef>
+        </subjectdef>
+        <subjectdef keys="domainKey">
+            <subjectdef keys="Finishing"></subjectdef>
+            <subjectdef keys="Roofs"></subjectdef>
+            <subjectdef keys="Facades"></subjectdef>
+         </subjectdef>       
+    </hasInstance>
+    <hasPart>
+        <subjectdef keys="productfamilyKey">
+            <subjectdef keyref="Finishing">
+                <subjectdef keys="Thermal insulation product"></subjectdef>
+                <subjectdef keys="Thermal insulation of cavity walls"></subjectdef>
+            </subjectdef>            
+        </subjectdef>
+    </hasPart>
+    <enumerationdef>
+        <attributedef name="deliveryTarget"></attributedef>
+        <subjectdef keyref="deliveryTargetKey"></subjectdef>
+    </enumerationdef>
+    <enumerationdef>
+        <attributedef name="product"></attributedef>
+        <subjectdef keyref="productKey"></subjectdef>
+    </enumerationdef>
+</subjectScheme>

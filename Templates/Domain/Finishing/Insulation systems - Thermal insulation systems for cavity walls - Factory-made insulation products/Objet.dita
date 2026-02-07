@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gxb_kqm_xyb">
+    <title>Objet de l'agrément</title>
+    <shortdesc/>
+    <conbody>
+        <table frame="none" rowsep="0" colsep="0" id="table_o22_jrm_xyb">
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="187.5pt"/>
+                <colspec colname="c2" colnum="2" colwidth="380.25pt"/>
+                <tbody>
+                    <row valign="top">
+                        <entry>Produit de construction :</entry>
+                        <entry>
+                            <p>Panneaux en mousse rigide de polyisocyanurate (PIR)</p>
+                            <ul id="ul_u2c_zrm_xyb">
+                                <li>IKO Enertherm Alu</li>
+                                <li>IKO Enertherm Alu Pure</li>
+                            </ul>
+                            <p>Ces produits font en outre l'objet de l'agrément technique ATG H867</p>
+                        </entry>
+                    </row>
+                    <row valign="top">
+                        <entry>Application visée :</entry>
+                        <entry>Isolation thermique de murs creux maçonnés appliquée comme remplissage partiel du creux lors de la construction de ces murs</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>La procédure de certification comprend :</p>
+        <ul id="ul_zbl_mwr_xyb">
+            <li>un contrôle continu de la production par le fabricant,</li>
+            <li>un contrôle régulier par l'organisme de certification désigné par l'UBAtc.</li>
+        </ul>
+        <p>L'agrément technique porte sur le matériau isolant proprement dit, y compris la technique de pose. Mais ne couvre pas la qualité de la mise en oeuvre.</p>
+    </conbody>
+</concept>

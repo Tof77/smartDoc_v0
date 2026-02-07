@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="tolerances_on_length_and_width_en_13165">
+    <title>Tolerances on length and width</title>
+    <shortdesc/>
+    <refbody>
+        <table frame="none" rowsep="0" colsep="0" id="table_y2x_xfx_zyb">
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colwidth="200pt"/>
+                <colspec colname="c2" colnum="2" colwidth="200pt"/>
+                <thead>
+                    <row>
+                        <entry>Dimensions</entry>
+                        <entry>Tolerances</entry>
+                    </row>
+                    <row>
+                        <entry>mm</entry>
+                        <entry>mm</entry>
+                    </row>
+                </thead>
+                <tbody>
+
+                    <row>
+                        <entry>&lt; 1000</entry>
+                        <entry>± 5</entry>
+                    </row>
+                    <row>
+                        <entry>1000 - 2000</entry>
+                        <entry>± 7.5</entry>
+                    </row>
+                    <row>
+                        <entry>2001 - 4000</entry>
+                        <entry>± 10</entry>
+                    </row>
+                    <row>
+                        <entry>> 4000</entry>
+                        <entry>± 15</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

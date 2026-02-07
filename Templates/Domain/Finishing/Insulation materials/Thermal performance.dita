@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ksv_vrf_1zb">
+    <title>Performances thermiques</title>
+    <body>
+        <div id="thermal_insulation_of_cavity_walls-thermal_performance">
+            <p>Il est ici fait référence à la norme NBN B 62-002:2008 "Performances thermiques de
+                bâtiments – Calcul des coefficients de transmission thermique (valeurs U) des
+                composants et éléments de bâtiments" et au feuillet d’information de l’UBAtc 2011/1
+                "Murs creux isolés de façades en maçonnerie".</p>
+            <table frame="none" rowsep="0" colsep="0" id="table_rld_jqg_1zb">
+                <tgroup cols="2" align="center">
+                    <colspec colname="c1" colnum="1" colwidth="459.75pt" align="left"/>
+                    <colspec colname="c2" colnum="2" colwidth="70.5pt" align="center"/>
+                    <tbody>
+                        <row>
+                            <entry align="left" valign="top">
+                                <equation-block id="equation-block_v1v_zty_zyb"><mathml>
+                                        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                                            <m:semantics>
+                                                <m:mrow>
+                                                  <m:mstyle lspace="20px" maxsize="100%"
+                                                  linethickness="1" stretchy="false">
+                                                  <m:mfrac>
+                                                  <m:mn>1</m:mn>
+                                                  <m:mn>U</m:mn>
+                                                  </m:mfrac>
+                                                  <m:mo>=</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mn>T</m:mn>
+                                                  </m:msub>
+                                                  <m:mo>=</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mn>si</m:mn>
+                                                  </m:msub>
+                                                  <m:mo>+</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mi>mur creux</m:mi>
+                                                  </m:msub>
+                                                  <m:mo>+</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mi>se</m:mi>
+                                                  </m:msub>
+                                                  </m:mstyle>
+                                                </m:mrow>
+                                            </m:semantics>
+                                        </m:math>
+                                    </mathml></equation-block>
+                            </entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry align="left" valign="top">
+                                <equation-block id="equation-block_uz3_k5y_zyb"><mathml>
+                                        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                                            <m:semantics>
+                                                <m:mrow>
+                                                  <m:mstyle lspace="20px" maxsize="100%"
+                                                  linethickness="1" stretchy="false">
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mi>mur creux</m:mi>
+                                                  </m:msub>
+                                                  <m:mo>=</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mn>1</m:mn>
+                                                  </m:msub>
+                                                  <m:mo>+</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mn>2</m:mn>
+                                                  </m:msub>
+                                                  <m:mo>+</m:mo>
+                                                  <m:mtext>...</m:mtext>
+                                                  <m:mo>+</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mi>isol</m:mi>
+                                                  </m:msub>
+                                                  <m:mo>+</m:mo>
+                                                  <m:mtext>...</m:mtext>
+                                                  <m:mo>+</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mn>n</m:mn>
+                                                  </m:msub>
+                                                  </m:mstyle>
+                                                </m:mrow>
+                                            </m:semantics>
+                                        </m:math>
+                                    </mathml></equation-block>
+                            </entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry align="left" valign="top">
+                                <equation-block id="equation-block_dxy_q5y_zyb"><mathml>
+                                        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                                            <m:semantics>
+                                                <m:mrow>
+                                                  <m:mn>U</m:mn>
+                                                  <m:mo>=</m:mo>
+                                                  <m:mfrac>
+                                                  <m:mn>1</m:mn>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mn>T</m:mn>
+                                                  </m:msub>
+                                                  </m:mfrac>
+                                                </m:mrow>
+                                            </m:semantics>
+                                        </m:math>
+                                    </mathml></equation-block>
+                            </entry>
+                            <entry valign="top" align="center">(1)</entry>
+                        </row>
+                        <row>
+                            <entry align="left" valign="top">
+                                <equation-block id="equation-block_bmm_55y_zyb"><mathml>
+                                        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                                            <m:semantics>
+                                                <m:mrow>
+                                                  <m:msub>
+                                                  <m:mi>&#x0394;U</m:mi>
+                                                  <m:mi>cor</m:mi>
+                                                  </m:msub>
+                                                  <m:mo>=</m:mo>
+                                                  <m:mfrac>
+                                                  <m:mn>1</m:mn>
+                                                  <m:mrow>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mn>T</m:mn>
+                                                  </m:msub>
+                                                  <m:mo>-</m:mo>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mi>cor</m:mi>
+                                                  </m:msub>
+                                                  </m:mrow>
+                                                  </m:mfrac>
+                                                  <m:mo>-</m:mo>
+                                                  <m:mfrac>
+                                                  <m:mn>1</m:mn>
+                                                  <m:msub>
+                                                  <m:mn>R</m:mn>
+                                                  <m:mn>T</m:mn>
+                                                  </m:msub>
+                                                  </m:mfrac>
+                                                </m:mrow>
+                                            </m:semantics>
+                                        </m:math>
+                                    </mathml></equation-block>
+                            </entry>
+                            <entry align="center" valign="top">(2)</entry>
+                        </row>
+                        <row>
+                            <entry align="left" valign="top">
+                                <equation-block id="equation-block_z1r_1vy_zyb"><mathml>
+                                        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                                            <m:semantics>
+                                                <m:mrow>
+                                                  <m:msub>
+                                                  <m:mn>U</m:mn>
+                                                  <m:mi>c</m:mi>
+                                                  </m:msub>
+                                                  <m:mo>=</m:mo>
+                                                  <m:mn>U</m:mn>
+                                                  <m:mo>+</m:mo>
+                                                  <m:msub>
+                                                  <m:mi>&#x0394;U</m:mi>
+                                                  <m:mi>cor</m:mi>
+                                                  </m:msub>
+                                                  <m:mo>+</m:mo>
+                                                  <m:msub>
+                                                  <m:mi>&#x0394;U</m:mi>
+                                                  <m:mi>g</m:mi>
+                                                  </m:msub>
+                                                  <m:mo>+</m:mo>
+                                                  <m:msub>
+                                                  <m:mi>&#x0394;U</m:mi>
+                                                  <m:mi>f</m:mi>
+                                                  </m:msub>
+                                                </m:mrow>
+                                            </m:semantics>
+                                        </m:math>
+                                    </mathml></equation-block>
+                            </entry>
+                            <entry align="center" valign="top">(3)</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p>Avec:</p>
+            <ul id="ul_bsz_dbz_zyb">
+                <li>R<sub>T</sub> : résistance thermique totale du mur creux</li>
+                <li>R<sub>mur creux</sub> : résistance thermique du mur creux, soit la somme des
+                    résistances thermiques des différentes couches qui la composent (paroi
+                    intérieure comportant ou non une couche d'étanchéité à l'air, couche
+                    d'isolation, coulisse restante en cas de remplissage partiel, paroi
+                    extérieure)</li>
+                <li>R<sub>si</sub> : résistance à la transmission thermique de la surface
+                    intérieure, conformément à la NBNEN ISO 6946. Pour le mur creux, R<sub>si</sub>
+                    = 0.13 m²K/W</li>
+                <li>R<sub>isol</sub> : pour une couche d'isolation homogène, il s'agit de la
+                    résistance thermique déclarée du produit isolant pour l'épaisseur visée.
+                        R<sub>isol</sub> = R<sub>D</sub></li>
+                <li>R<sub>se</sub> : résistance à la transmission thermique de la surface
+                    extérieure, conformément à la NBNEN ISO 6946. Pour le mur creux, R<sub>si</sub>
+                    = 0.04 m²K/W</li>
+                <li>R<sub>cor</sub> : facteur de correction sur la valeur U pour les tolérances de
+                    pose lors de l'exécution du mur creux</li>
+                <li>U : coefficient de transmission thermique du mur creux calculé conformément à
+                    (1)</li>
+                <li>ΔU<sub>cor</sub> : terme de correction sur la valeur U pour les tolérances
+                    dimensionnelles et de pose lors de l'exécution, calculé conformément à (2)</li>
+                <li>U<sub>c</sub> : coefficient de transmission thermique corrigé pour le mur creux,
+                    conformément à (3) et à la NBN EN ISO 6946</li>
+                <li>ΔU<sub>g</sub> : majoration de la valeur U pour la présence de fentes dans la
+                    couche d'isolation, conformément à la NBN EN ISO 6946. Pour une exécution
+                    conforme à l'ATG, ΔU<sub>g</sub> = 0</li>
+                <li>ΔU<sub>f</sub> : majoration de la valeur U pour les fixations à travers la
+                    couche d'isolation, conformément à la NBN EN ISO 6946</li>
+            </ul>
+        </div>
+    </body>
+</topic>
