@@ -7,11 +7,10 @@
         <section id="general_info">
             <title>Informations generales</title>
             <p><b>Materiau :</b> PF</p>
-            
+            <p><b>Type de produit :</b> Rigid panel</p>
             
             <p><b>Finition face superieure :</b> Voile de verre blanc vif (70 g/m²)</p>
             <p><b>Finition face inferieure :</b> Voile de verre blanc vif (70 g/m²)</p>
-            
         </section>
 
         <table id="dimensions_table">
@@ -31,12 +30,196 @@
                     <row>
                         <entry>1200</entry>
                         <entry>600</entry>
-                        <entry></entry>
+                        <entry>40 - 120 (pas de 10)</entry>
                     </row>
                 </tbody>
             </tgroup>
         </table>
 
+        <section id="dim_tolerances">
+            <title>Tolerances dimensionnelles</title>
+            <p><b>Tolerance epaisseur :</b> Classe T1</p>
+        </section>
+
+        <table id="properties_group_0">
+            <title>Proprietes (epaisseurs 40 - 44 mm)</title>
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="2.5*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1.5*"/>
+                <thead>
+                    <row>
+                        <entry>Propriete</entry>
+                        <entry>Valeur</entry>
+                        <entry>Unite</entry>
+                        <entry>Methode d&apos;essai</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>squareness (Sl)</entry>
+                        <entry></entry>
+                        <entry>mm/m</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>squareness (Sb)</entry>
+                        <entry></entry>
+                        <entry>mm/m</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>squareness (Sd)</entry>
+                        <entry></entry>
+                        <entry>mm</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>flatness</entry>
+                        <entry></entry>
+                        <entry>mm</entry>
+                        <entry>NBN EN 825</entry>
+                    </row>
+                    <row>
+                        <entry>dimensional stability (DS(70,90))</entry>
+                        <entry>&lt;=1.5</entry>
+                        <entry>%</entry>
+                        <entry>NBN EN 1604</entry>
+                    </row>
+                    <row>
+                        <entry>dimensional stability (DS(-20,-))</entry>
+                        <entry>&lt;=1.5</entry>
+                        <entry>%</entry>
+                        <entry>NBN EN 1604</entry>
+                    </row>
+                    <row>
+                        <entry>thermal conductivity</entry>
+                        <entry>0.023</entry>
+                        <entry>W/mK</entry>
+                        <entry>NBN EN 12667</entry>
+                    </row>
+                    <row>
+                        <entry>reaction to fire</entry>
+                        <entry>C -s1,d0</entry>
+                        <entry></entry>
+                        <entry>NBN EN 13501-1</entry>
+                    </row>
+                    <row>
+                        <entry>compressive strength (CS(10\Y)100)</entry>
+                        <entry>100</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 826</entry>
+                    </row>
+                    <row>
+                        <entry>tensile strength perpendicular to faces (TR60)</entry>
+                        <entry>60</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 1607</entry>
+                    </row>
+                    <row>
+                        <entry>bending (BS200)</entry>
+                        <entry>200</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 12089</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+
+        <table id="properties_group_1">
+            <title>Proprietes (epaisseurs 45 - 120 mm)</title>
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="2.5*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1.5*"/>
+                <thead>
+                    <row>
+                        <entry>Propriete</entry>
+                        <entry>Valeur</entry>
+                        <entry>Unite</entry>
+                        <entry>Methode d&apos;essai</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>squareness (Sl)</entry>
+                        <entry></entry>
+                        <entry>mm/m</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>squareness (Sb)</entry>
+                        <entry></entry>
+                        <entry>mm/m</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>squareness (Sd)</entry>
+                        <entry></entry>
+                        <entry>mm</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>flatness</entry>
+                        <entry></entry>
+                        <entry>mm</entry>
+                        <entry>NBN EN 825</entry>
+                    </row>
+                    <row>
+                        <entry>dimensional stability (DS(70,90))</entry>
+                        <entry>&lt;=1.5</entry>
+                        <entry>%</entry>
+                        <entry>NBN EN 1604</entry>
+                    </row>
+                    <row>
+                        <entry>dimensional stability (DS(-20,-))</entry>
+                        <entry>&lt;=1.5</entry>
+                        <entry>%</entry>
+                        <entry>NBN EN 1604</entry>
+                    </row>
+                    <row>
+                        <entry>thermal conductivity</entry>
+                        <entry>0.022</entry>
+                        <entry>W/mK</entry>
+                        <entry>NBN EN 12667</entry>
+                    </row>
+                    <row>
+                        <entry>reaction to fire</entry>
+                        <entry>C -s1,d0</entry>
+                        <entry></entry>
+                        <entry>NBN EN 13501-1</entry>
+                    </row>
+                    <row>
+                        <entry>compressive strength (CS(10\Y)100)</entry>
+                        <entry>100</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 826</entry>
+                    </row>
+                    <row>
+                        <entry>tensile strength perpendicular to faces (TR60)</entry>
+                        <entry>60</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 1607</entry>
+                    </row>
+                    <row>
+                        <entry>bending (BS200)</entry>
+                        <entry>200</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 12089</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+
+        <section id="composition">
+            <title>Composition du produit</title>
+            <fig id="composition_0">
+                <image href="https://app-bw-butgb.azurewebsites.net/Finishing/Insulation materials/ATG H706/img/Kooltherm_K3-Composition.png" placement="break"/>
+            </fig>
+        </section>
         
+
     </body>
 </topic>
