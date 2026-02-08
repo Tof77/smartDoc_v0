@@ -7,11 +7,10 @@
         <section id="general_info">
             <title>Informations generales</title>
             <p><b>Materiau :</b> PF</p>
-            
+            <p><b>Type de produit :</b> Rigid panel</p>
             
             <p><b>Finition face superieure :</b> Feuille en aluminium composite micro-perforée</p>
             <p><b>Finition face inferieure :</b> Feuille en aluminium composite micro-perforée</p>
-            
         </section>
 
         <table id="dimensions_table">
@@ -31,37 +30,128 @@
                     <row>
                         <entry>1200</entry>
                         <entry>600</entry>
-                        <entry></entry>
+                        <entry>50</entry>
                     </row>
                     <row>
                         <entry>1200</entry>
                         <entry>600</entry>
-                        <entry></entry>
+                        <entry>63</entry>
                     </row>
                     <row>
                         <entry>1200</entry>
                         <entry>600</entry>
-                        <entry></entry>
+                        <entry>74</entry>
                     </row>
                     <row>
                         <entry>1200</entry>
                         <entry>600</entry>
-                        <entry></entry>
+                        <entry>84</entry>
                     </row>
                     <row>
                         <entry>1200</entry>
                         <entry>600</entry>
-                        <entry></entry>
+                        <entry>95</entry>
                     </row>
                     <row>
                         <entry>1200</entry>
                         <entry>600</entry>
-                        <entry></entry>
+                        <entry>105</entry>
                     </row>
                     <row>
                         <entry>1200</entry>
                         <entry>600</entry>
+                        <entry>117</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+
+        <section id="dim_tolerances">
+            <title>Tolerances dimensionnelles</title>
+            <p><b>Tolerance epaisseur :</b> Classe T1</p>
+        </section>
+
+        <table id="properties_group_0">
+            <title>Proprietes (epaisseurs 50 - 117 mm)</title>
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="2.5*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1.5*"/>
+                <thead>
+                    <row>
+                        <entry>Propriete</entry>
+                        <entry>Valeur</entry>
+                        <entry>Unite</entry>
+                        <entry>Methode d&apos;essai</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>squareness (Sl)</entry>
                         <entry></entry>
+                        <entry>mm/m</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>squareness (Sb)</entry>
+                        <entry></entry>
+                        <entry>mm/m</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>squareness (Sd)</entry>
+                        <entry></entry>
+                        <entry>mm</entry>
+                        <entry>NBN EN 824</entry>
+                    </row>
+                    <row>
+                        <entry>flatness</entry>
+                        <entry></entry>
+                        <entry>mm</entry>
+                        <entry>NBN EN 825</entry>
+                    </row>
+                    <row>
+                        <entry>dimensional stability (DS(70,90))</entry>
+                        <entry>&lt;=1.5</entry>
+                        <entry>%</entry>
+                        <entry>NBN EN 1604</entry>
+                    </row>
+                    <row>
+                        <entry>dimensional stability (DS(-20,-))</entry>
+                        <entry>&lt;=1.5</entry>
+                        <entry>%</entry>
+                        <entry>NBN EN 1604</entry>
+                    </row>
+                    <row>
+                        <entry>thermal conductivity</entry>
+                        <entry>0.022</entry>
+                        <entry>W/mK</entry>
+                        <entry>NBN EN 12667</entry>
+                    </row>
+                    <row>
+                        <entry>reaction to fire</entry>
+                        <entry>D-s1,d0</entry>
+                        <entry></entry>
+                        <entry>NBN EN 13501-1</entry>
+                    </row>
+                    <row>
+                        <entry>compressive strength (CS(10\Y)100)</entry>
+                        <entry>100</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 826</entry>
+                    </row>
+                    <row>
+                        <entry>tensile strength perpendicular to faces</entry>
+                        <entry>0</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 1607</entry>
+                    </row>
+                    <row>
+                        <entry>bending (BS200)</entry>
+                        <entry>200</entry>
+                        <entry>kPa</entry>
+                        <entry>NBN EN 12089</entry>
                     </row>
                 </tbody>
             </tgroup>
@@ -70,6 +160,11 @@
         <section id="fabrication">
             <title>Processus de fabrication</title>
             <p>La mousse Résol est obtenue est obtenue par expansion au moyen d&apos;un agent gonflant sans CFK (LBL-2 et pentane)</p>
+        </section>
+
+        <section id="manufacturing">
+            <title>Fabrication et distribution</title>
+            <p><b>Fabricant(s) :</b> Kingspan Insulation bv</p>
         </section>
     </body>
 </topic>
