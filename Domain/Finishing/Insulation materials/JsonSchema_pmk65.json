@@ -327,7 +327,7 @@
                   "tongue_and_groove_details":{
                     "type": "object",
                     "title": "Tongue and groove assembly details",
-                    "description": "<img src='https://app-bw-butgb.azurewebsites.net/img/Insulation product - Tongue and groove details.png' height='150' />",
+                    "description": "<img src='img/Insulation product - Tongue and groove details.png' height='150' />",
                     "properties": {                      
                       "dimensions":{
                         "type": "array",
@@ -373,7 +373,7 @@
                   "shiplap_details":{
                     "type": "object",
                     "title": "Shiplap assembly details",
-                    "description": "<img src='https://app-bw-butgb.azurewebsites.net/img/Insulation product - Shiplap details.png' height='150' />",
+                    "description": "<img src='img/Insulation product - Shiplap details.png' height='150' />",
                     "properties": {                      
                       "dimensions":{
                         "type": "array",
@@ -469,7 +469,6 @@
                           "type": "string",
                           "title":"Composition picture",
                           "format": "url",
-                          "default": "https://app-bw-butgb.azurewebsites.net/Finishing/Insulation materials/",
                           "options": {                            
                             "upload": {
                               "mime_type":"image/*",
