@@ -378,7 +378,7 @@
                   "shiplap_details": {
                     "type": "object",
                     "title": "Shiplap assembly details",
-                    "description": "<img src='/img/Insulation%20product%20-%20Shiplap%20details.png' height='150' />",
+                    "description": "<img src='img/Insulation%20product%20-%20Shiplap%20details.png' height='150' />",
                     "properties": {
                       "dimensions": {
                         "type": "array",
