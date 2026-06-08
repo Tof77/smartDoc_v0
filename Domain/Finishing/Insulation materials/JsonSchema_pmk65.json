@@ -47,7 +47,7 @@
             "grid_columns": 12,
             "grid_break": true,
             "dependencies": {
-              "category": "Finishing"
+              "domain": "Finishing"
             }
           }
         },
@@ -65,19 +65,19 @@
           "type": "string",
           "id": "document.atglogo",
           "options": {
-            "grid_columns": 9            
+            "grid_columns": 9
           }
         },
-        "generate_atglogo":{
+        "generate_atglogo": {
           "format": "button",
           "options": {
             "grid_columns": 3,
             "grid_break": true,
             "button": {
-                "icon": "image",
-                "text": "Generate image",
-                "align": "left",
-                "action": "generateReferencedAtgIcon"                
+              "icon": "image",
+              "text": "Generate image",
+              "align": "left",
+              "action": "generateReferencedAtgIcon"
             }
           }
         },
@@ -86,18 +86,18 @@
           "id": "document.qrcode",
           "options": {
             "grid_columns": 9
-          }          
+          }
         },
-        "generate_qrcode":{
+        "generate_qrcode": {
           "format": "button",
           "options": {
             "grid_columns": 3,
             "grid_break": true,
             "button": {
-                "icon": "qrcode",
-                "text": "Generate QR code",
-                "align": "left",
-                "action": "generateQrCode"
+              "icon": "qrcode",
+              "text": "Generate QR code",
+              "align": "left",
+              "action": "generateQrCode"
             }
           }
         },
@@ -108,49 +108,54 @@
             "name": {
               "type": "string",
               "title": "Company name"
-            },            
+            },
             "address": {
               "type": "object",
               "title": "Address",
               "format": "grid-strict",
               "properties": {
                 "street": {
-                    "type": "string",
-                    "title": "Street + Nr",
-                    "options": {
-                      "grid_columns": 12,
-                      "grid_break": true       
-                    }
+                  "type": "string",
+                  "title": "Street + Nr",
+                  "options": {
+                    "grid_columns": 12,
+                    "grid_break": true
+                  }
                 },
                 "zipcode": {
-                    "type": "string",
-                    "title": "Zip code",
-                    "options": {
-                      "grid_columns": 4       
-                    }
+                  "type": "string",
+                  "title": "Zip code",
+                  "options": {
+                    "grid_columns": 4
+                  }
                 },
                 "city": {
-                    "type": "string",
-                    "title": "City",
-                    "options": {
-                      "grid_columns": 8,
-                      "grid_break": true        
-                    }
+                  "type": "string",
+                  "title": "City",
+                  "options": {
+                    "grid_columns": 8,
+                    "grid_break": true
+                  }
                 },
                 "country": {
-                    "type": "string",
-                    "title": "Country",
-                    "options": {
-                      "grid_columns": 12,
-                      "grid_break": true       
-                    }
+                  "type": "string",
+                  "title": "Country",
+                  "options": {
+                    "grid_columns": 12,
+                    "grid_break": true
+                  }
                 }
               },
               "options": {
                 "disable_collapse": true,
                 "disable_properties": true
               },
-              "required": ["street", "zipcode", "city", "country"]
+              "required": [
+                "street",
+                "zipcode",
+                "city",
+                "country"
+              ]
             },
             "contact": {
               "type": "object",
@@ -211,35 +216,35 @@
                     ]
                   },
                   "product_type": {
-                    "type":"object",
+                    "type": "object",
                     "title": "Type",
-                    "format":"grid-strict",
-                    "properties":{
-                      "rigid_panel":{
-                        "type":"boolean",
-                        "title":"Rigid panel",
+                    "format": "grid-strict",
+                    "properties": {
+                      "rigid_panel": {
+                        "type": "boolean",
+                        "title": "Rigid panel",
                         "format": "checkbox",
                         "options": {
                           "grid_columns": 2
                         }
                       },
-                      "semi_rigid_panel":{
-                        "type":"boolean",
-                        "title":"Semi-rigid panel",
+                      "semi_rigid_panel": {
+                        "type": "boolean",
+                        "title": "Semi-rigid panel",
                         "format": "checkbox",
                         "options": {
                           "grid_columns": 2
                         }
                       },
-                      "roll":{
-                        "type":"boolean",
-                        "title":"Roll",
+                      "roll": {
+                        "type": "boolean",
+                        "title": "Roll",
                         "format": "checkbox",
                         "options": {
                           "grid_columns": 2
                         }
                       }
-                    }                    
+                    }
                   },
                   "dimensions": {
                     "type": "array",
@@ -279,7 +284,7 @@
                           }
                         },
                         "thickness_step": {
-                          "type": "number",                          
+                          "type": "number",
                           "title": "Thickness increments (mm)",
                           "options": {
                             "grid_columns": 2
@@ -293,76 +298,76 @@
                       }
                     }
                   },
-                  "edge_finishing":{
-                    "type":"object",
+                  "edge_finishing": {
+                    "type": "object",
                     "title": "Edge finishing",
-                    "format":"grid-strict",
-                    "properties":{
-                      "straight_edge":{
-                        "type":"boolean",
-                        "title":"Straight edges",
+                    "format": "grid-strict",
+                    "properties": {
+                      "straight_edge": {
+                        "type": "boolean",
+                        "title": "Straight edges",
                         "format": "checkbox",
                         "options": {
                           "grid_columns": 2
                         }
                       },
-                      "tongue_and_groove":{
-                        "type":"boolean",
-                        "title":"Tongue and Groove",
+                      "tongue_and_groove": {
+                        "type": "boolean",
+                        "title": "Tongue and Groove",
                         "format": "checkbox",
                         "options": {
                           "grid_columns": 2
                         }
                       },
-                      "shiplap":{
-                        "type":"boolean",
-                        "title":"Rebated (shiplap) edge",
+                      "shiplap": {
+                        "type": "boolean",
+                        "title": "Rebated (shiplap) edge",
                         "format": "checkbox",
                         "options": {
                           "grid_columns": 2
                         }
                       }
-                    }                    
+                    }
                   },
-                  "tongue_and_groove_details":{
+                  "tongue_and_groove_details": {
                     "type": "object",
                     "title": "Tongue and groove assembly details",
-                    "description": "<img src='img/Insulation product - Tongue and groove details.png' height='150' />",
-                    "properties": {                      
-                      "dimensions":{
+                    "description": "<img src='Domain/Finishing/Insulation materials/img/Insulation product - Shiplap details.png' height='150' />",
+                    "properties": {
+                      "dimensions": {
                         "type": "array",
                         "title": "Dimensions of tongue and groove",
                         "format": "table",
-                        "items":{
+                        "items": {
                           "type": "object",
-                          "properties":{
-                            "panel_thickness":{
+                          "properties": {
+                            "panel_thickness": {
                               "type": "string",
                               "title": "Thickness of the panel (mm)"
                             },
-                            "tongue_width":{
+                            "tongue_width": {
                               "type": "number",
                               "title": "Width of the tongue (A)"
                             },
-                            "tongue_thickness":{
+                            "tongue_thickness": {
                               "type": "number",
                               "title": "Thickness of the tongue (D)"
                             },
-                            "groove_depth":{
+                            "groove_depth": {
                               "type": "number",
                               "title": "Depth of the groove (B)"
                             },
-                            "groove_thickness":{
+                            "groove_thickness": {
                               "type": "number",
                               "title": "Thickness of the groove (C)"
                             },
-                            "position_assembly":{
+                            "position_assembly": {
                               "type": "number",
-                              "title": "Position of tongue and groove (E)"                            
+                              "title": "Position of tongue and groove (E)"
                             }
                           }
-                        }                        
-                      }                      
+                        }
+                      }
                     },
                     "options": {
                       "dependencies": {
@@ -370,41 +375,41 @@
                       }
                     }
                   },
-                  "shiplap_details":{
+                  "shiplap_details": {
                     "type": "object",
                     "title": "Shiplap assembly details",
-                    "description": "<img src='img/Insulation product - Shiplap details.png' height='150' />",
-                    "properties": {                      
-                      "dimensions":{
+                    "description": "<img src='https://raw.githubusercontent.com/Tof77/smartDoc_v0/main/Domain/Finishing/Insulation%20materials/img/Insulation%20product%20-%20Shiplap%20details.png' height='150' />",
+                    "properties": {
+                      "dimensions": {
                         "type": "array",
                         "title": "Dimensions of shiplap assembly",
                         "format": "table",
-                        "items":{
+                        "items": {
                           "type": "object",
-                          "properties":{
-                            "panel_thickness":{
+                          "properties": {
+                            "panel_thickness": {
                               "type": "string",
                               "title": "Thickness of the panel (mm)"
                             },
-                            "width_lower_rebated_edge":{
+                            "width_lower_rebated_edge": {
                               "type": "number",
                               "title": "Width of the lower rebated edge (A)"
                             },
-                            "width_higher_rebated_edge":{
+                            "width_higher_rebated_edge": {
                               "type": "number",
                               "title": "Width of the higher rebated edge (B)"
                             },
-                            "thickness_higher_rebated_edge":{
+                            "thickness_higher_rebated_edge": {
                               "type": "number",
                               "title": "Thickness of the higher rebated edge (C)"
                             },
-                            "thickness_lower_rebated_edge":{
+                            "thickness_lower_rebated_edge": {
                               "type": "number",
                               "title": "Thickness of the lower rebated edge (D)"
                             }
                           }
                         }
-                      }                      
+                      }
                     },
                     "options": {
                       "dependencies": {
@@ -458,21 +463,22 @@
                     }
                   },
                   "product_composition_pictures": {
-                    "type":"array",
+                    "type": "array",
                     "format": "table",
                     "title": "Picture illustrating the composition of the product",
-                    "items":{
+                    "items": {
                       "type": "object",
                       "title": "Composition picture",
                       "properties": {
                         "image": {
                           "type": "string",
-                          "title":"Composition picture",
+                          "title": "Composition picture",
                           "format": "url",
-                          "options": {                            
+                          "default": "https://app-bw-butgb.azurewebsites.net/Finishing/Insulation materials/",
+                          "options": {
                             "upload": {
-                              "mime_type":"image/*",
-                              "auto_upload":true,
+                              "mime_type": "image/*",
+                              "auto_upload": true,
                               "upload_handler": "testUploadHandler"
                             }
                           },
@@ -512,22 +518,22 @@
                         "related_ATG": {
                           "type": "boolean",
                           "title": "Related ATG ?",
-                          "format":"checkbox",
+                          "format": "checkbox",
                           "options": {
                             "inputAttributes": {
                               "class": "centered_checkbox"
                             }
-                          }                 
+                          }
                         },
                         "ATG_reference": {
                           "type": "string",
                           "title": "Reference of related ATG",
-                          "options": {                        
+                          "options": {
                             "dependencies": {
-                                "related ATG": true
+                              "related_ATG": true
                             }
-                          }                            
-                        }                          
+                          }
+                        }
                       },
                       "required": [
                         "use"
@@ -543,12 +549,7 @@
                   "edge_finishing",
                   "product_application"
                 ],
-                "propertyOrder": 1,
-                "dependencies": {
-                  "edge_finishing": {
-
-                  }
-                }
+                "propertyOrder": 1
               },
               "fabrication process": {
                 "type": "object",
@@ -556,7 +557,7 @@
                 "properties": {
                   "fr": {
                     "type": "string",
-                    "format": "jodit"                
+                    "format": "jodit"
                   },
                   "nl": {
                     "type": "string",
@@ -743,7 +744,8 @@
                           "min value",
                           "max value",
                           "units"
-                        ]
+                        ],
+                        "format": "grid-strict"
                       }
                     },
                     "squareness": {
@@ -756,9 +758,9 @@
                       "items": {
                         "type": "object",
                         "properties": {
-                          "type":{
-                            "type":"string",
-                            "enum":[
+                          "type": {
+                            "type": "string",
+                            "enum": [
                               "",
                               "Sl",
                               "Sb",
@@ -809,7 +811,8 @@
                               }
                             }
                           }
-                        }
+                        },
+                        "format": "grid-strict"
                       },
                       "required": [
                         "max value",
@@ -874,7 +877,8 @@
                               }
                             }
                           }
-                        }
+                        },
+                        "format": "grid-strict"
                       },
                       "required": [
                         "value",
@@ -951,7 +955,8 @@
                           "type",
                           "value",
                           "units"
-                        ]
+                        ],
+                        "format": "grid-strict"
                       }
                     },
                     "density": {
@@ -1006,7 +1011,8 @@
                               }
                             }
                           }
-                        }
+                        },
+                        "format": "grid-strict"
                       },
                       "required": [
                         "value",
@@ -1066,7 +1072,8 @@
                               }
                             }
                           }
-                        }
+                        },
+                        "format": "grid-strict"
                       },
                       "required": [
                         "value",
@@ -1129,7 +1136,8 @@
                         "required": [
                           "value",
                           "units"
-                        ]
+                        ],
+                        "format": "grid-strict"
                       }
                     },
                     "water absorption": {
@@ -1201,7 +1209,8 @@
                           "type",
                           "value",
                           "units"
-                        ]
+                        ],
+                        "format": "grid-strict"
                       }
                     },
                     "deformation under compressive load and temperature conditions": {
@@ -1274,9 +1283,10 @@
                           "type",
                           "value",
                           "units"
-                        ]
+                        ],
+                        "format": "grid-strict"
                       }
-                    },                    
+                    },
                     "compressive strength": {
                       "type": "array",
                       "format": "table",
@@ -1367,7 +1377,8 @@
                           "requirement",
                           "min value",
                           "units"
-                        ]
+                        ],
+                        "format": "grid-strict"
                       }
                     },
                     "bending strength": {
@@ -1430,10 +1441,10 @@
                           },
                           "test method": {
                             "type": "string",
-                            "enum":[
+                            "enum": [
                               "NBN EN 12089 method A",
                               "NBN EN 12089 method B"
-                            ],                            
+                            ],
                             "options": {
                               "containerAttributes": {
                                 "class": "my-col-15"
@@ -1455,7 +1466,8 @@
                           "requirement",
                           "min value",
                           "units"
-                        ]
+                        ],
+                        "format": "grid-strict"
                       }
                     },
                     "tensile strength perpendicular to faces": {
@@ -1466,7 +1478,6 @@
                       "uniqueItems": true,
                       "items": {
                         "type": "object",
-                        "format": "table",
                         "minItems": 1,
                         "properties": {
                           "type": {
@@ -1542,12 +1553,14 @@
                             }
                           }
                         },
-                        "additionalProperties": false
+                        "additionalProperties": false,
+                        "format": "grid-strict"
                       }
                     }
                   },
                   "propertyOrder": 3
-                }
+                },
+                "propertyOrder": 5
               },
               "manufacturing and sales": {
                 "type": "object",
@@ -1597,10 +1610,13 @@
                     "type": "string",
                     "format": "textarea"
                   }
-                }
+                },
+                "propertyOrder": 6
               }
             },
-            "required": [],
+            "required": [
+              "product_properties"
+            ],
             "options": {
               "titleHidden": true,
               "disable_collapse": true,
@@ -1617,9 +1633,9 @@
         "reference",
         "holder",
         "product"
-      ]      
+      ]
     }
-  },  
+  },
   "definitions": {
     "address": {
       "type": "object",
