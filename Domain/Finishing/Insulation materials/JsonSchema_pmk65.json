@@ -332,7 +332,7 @@
                   "tongue_and_groove_details": {
                     "type": "object",
                     "title": "Tongue and groove assembly details",
-                    "description": "<img src='img/Insulation product - Tongue and groove details.png' height='150' />",
+                    "description": "<img src='/api/github-image?path=Domain/Finishing/Insulation materials/img/Insulation product - Tongue and groove details.png' height='150' />",
                     "properties": {
                       "dimensions": {
                         "type": "array",
